@@ -1,0 +1,15 @@
+member_casual,day_of_week,trip_duration
+casual,Friday,61.0
+casual,Monday,61.0
+casual,Saturday,58.0
+casual,Sunday,61.0
+casual,Thursday,45.0
+casual,Tuesday,61.0
+casual,Wednesday,61.0
+member,Friday,45.0
+member,Monday,32.0
+member,Saturday,49.0
+member,Sunday,43.0
+member,Thursday,36.0
+member,Tuesday,37.0
+member,Wednesday,35.0
