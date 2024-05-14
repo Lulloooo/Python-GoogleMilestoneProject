@@ -323,10 +323,20 @@ rush_trip_summary = (tripsclean.groupby(
 daymean = tripsclean.groupby('day_of_week')['trip_duration'].mean().reset_index()
 daysum = tripsclean.groupby('day_of_week')['trip_duration'].sum().reset_index()
 daycount = tripsclean.groupby('day_of_week')['trip_duration'].size().reset_index(name='count')
-#month analysis
-monthmean = tripsclean.groupby("month")["trip_duration"].mean().reset_index()
-monthsum = tripsclean.groupby("month")["trip_duration"].mean().reset_index()
-monthcount = tripsclean.groupby("month")["trip_duration"].size().reset_index(name = "count")
+#month analysis and member
+tripsclean3 = pd.read_csv("out_data/tripsclean.csv")
+monthmean = tripsclean3.groupby(["member_casual", "month"])["trip_duration"].mean().reset_index()
+monthsum = tripsclean3.groupby(["month", "member_casual"])["trip_duration"].sum().reset_index()
+monthcount = tripsclean3.groupby(["month", "member_casual"])["trip_duration"].size().reset_index(name = "count")
+#change the dfs from long to wide
+monthcountwide = monthcount.pivot(index = "month", columns = "member_casual", values = "count" )
+monthsumwide = monthsum.pivot(index = "month", columns = "member_casual", values = "trip_duration")
+monthmeanwide = monthmean.pivot(index = "month", columns = "member_casual", values = "trip_duration")
+#add the column "month_name"
+month_name = ["January", "February", "March", "April", "May", "June","July","August","September","October","November", "December"]
+monthcountwide["month_name"] = month_name
+monthsumwide["month_name"] = month_name
+monthmeanwide["month_name"] = month_name
 #count rush trips based on membership
 tripsmemberrush = tripsclean.groupby("member_casual")["rush_trip_weekly"].sum()
 #count rush trip based on day of thr week
@@ -396,6 +406,6 @@ startStatCount.to_csv("out_data/startStatCount.csv", index = False)
 endStatCount.to_csv("out_data/endStatCount.csv", index = False)
 latlongStart.to_csv("out_data/latlongStart.csv", index = False)
 latlongEnd.to_csv("out_data/latlongEnd.csv", index = False)
-monthmean.to_csv("out_data/monthmean.csv", index = False)
-monthsum.to_csv("out_data/monthsum.csv", index = False)
-monthcount.to_csv("out_data/monthcount.csv", index = False)
+monthmeanwide.to_csv("out_data/monthmean.csv", index = True)
+monthsumwide.to_csv("out_data/monthsum.csv", index = True)
+monthcountwide.to_csv("out_data/monthcount.csv", index = True)
