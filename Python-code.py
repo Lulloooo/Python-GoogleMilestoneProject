@@ -324,10 +324,9 @@ daymean = tripsclean.groupby('day_of_week')['trip_duration'].mean().reset_index(
 daysum = tripsclean.groupby('day_of_week')['trip_duration'].sum().reset_index()
 daycount = tripsclean.groupby('day_of_week')['trip_duration'].size().reset_index(name='count')
 #month analysis and member
-tripsclean3 = pd.read_csv("out_data/tripsclean.csv")
-monthmean = tripsclean3.groupby(["member_casual", "month"])["trip_duration"].mean().reset_index()
-monthsum = tripsclean3.groupby(["month", "member_casual"])["trip_duration"].sum().reset_index()
-monthcount = tripsclean3.groupby(["month", "member_casual"])["trip_duration"].size().reset_index(name = "count")
+monthmean = tripsclean.groupby(["member_casual", "month"])["trip_duration"].mean().reset_index()
+monthsum = tripsclean.groupby(["month", "member_casual"])["trip_duration"].sum().reset_index()
+monthcount = tripsclean.groupby(["month", "member_casual"])["trip_duration"].size().reset_index(name = "count")
 #change the dfs from long to wide
 monthcountwide = monthcount.pivot(index = "month", columns = "member_casual", values = "count" )
 monthsumwide = monthsum.pivot(index = "month", columns = "member_casual", values = "trip_duration")
@@ -337,6 +336,10 @@ month_name = ["January", "February", "March", "April", "May", "June","July","Aug
 monthcountwide["month_name"] = month_name
 monthsumwide["month_name"] = month_name
 monthmeanwide["month_name"] = month_name
+#date analysis
+datemean = tripsclean.groupby("date")["trip_duration"].mean().reset_index()
+datesum = tripsclean.groupby("date")["trip_duration"].sum().reset_index()
+datecount = tripsclean.groupby("date")["trip_duration"].size().reset_index(name = "count")
 #count rush trips based on membership
 tripsmemberrush = tripsclean.groupby("member_casual")["rush_trip_weekly"].sum()
 #count rush trip based on day of thr week
@@ -409,3 +412,6 @@ latlongEnd.to_csv("out_data/latlongEnd.csv", index = False)
 monthmeanwide.to_csv("out_data/monthmean.csv", index = True)
 monthsumwide.to_csv("out_data/monthsum.csv", index = True)
 monthcountwide.to_csv("out_data/monthcount.csv", index = True)
+datemean.to_csv("out_data/datemean.csv", index = False)
+datecount.to_csv("out_data/datecount.csv", index = False)
+datesum.to_csv("out_data/datesum.csv", index = False)
