@@ -337,9 +337,14 @@ monthcountwide["month_name"] = month_name
 monthsumwide["month_name"] = month_name
 monthmeanwide["month_name"] = month_name
 #date analysis
-datemean = tripsclean.groupby("date")["trip_duration"].mean().reset_index()
-datesum = tripsclean.groupby("date")["trip_duration"].sum().reset_index()
-datecount = tripsclean.groupby("date")["trip_duration"].size().reset_index(name = "count")
+datemean = tripsclean.groupby(["member_casual", "date"])["trip_duration"].mean().reset_index()
+datesum = tripsclean.groupby(["member_casual", "date"])["trip_duration"].sum().reset_index()
+datecount = tripsclean.groupby(["member_casual", "date"])["trip_duration"].size().reset_index(name = "count")
+#date df in wide shape
+datecountwide = datecount.pivot(index = "date", columns = "member_casual", values = "count")
+datemeanwide = datemean.pivot(index = "date", columns = "member_casual", values = "trip_duration")
+datesumwide = datesum.pivot(index = "date", columns = "member_casual", values = "trip_duration")
+datesumwide["total"] = datesumwide["casual"] + datesumwide["member"]
 #count rush trips based on membership
 tripsmemberrush = tripsclean.groupby("member_casual")["rush_trip_weekly"].sum()
 #count rush trip based on day of thr week
@@ -412,6 +417,6 @@ latlongEnd.to_csv("out_data/latlongEnd.csv", index = False)
 monthmeanwide.to_csv("out_data/monthmean.csv", index = True)
 monthsumwide.to_csv("out_data/monthsum.csv", index = True)
 monthcountwide.to_csv("out_data/monthcount.csv", index = True)
-datemean.to_csv("out_data/datemean.csv", index = False)
-datecount.to_csv("out_data/datecount.csv", index = False)
-datesum.to_csv("out_data/datesum.csv", index = False)
+datemeanwide.to_csv("out_data/datemean.csv", index = True)
+datecountwide.to_csv("out_data/datecount.csv", index = True)
+datesumwide.to_csv("out_data/datesum.csv", index = True)
