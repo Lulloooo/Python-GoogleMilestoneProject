@@ -345,8 +345,8 @@ datetry = pd.merge(datecount, datemean, on = "date")
 dateAnalysis = pd.merge(datetry, datesum, on = "date")
 #date df in wide shape
 datecountwide = datecount.pivot(index = "date", columns = "member_casual", values = "count")
-datemeanwide = datemean.pivot(index = "date", columns = "member_casual", values = "trip_duration")
-datesumwide = datesum.pivot(index = "date", columns = "member_casual", values = "trip_duration")
+datemeanwide = datemean.pivot(index = "date", columns = "member_casual", values = "mean")
+datesumwide = datesum.pivot(index = "date", columns = "member_casual", values = "sum")
 datesumwide["total"] = datesumwide["casual"] + datesumwide["member"]
 #count rush trips based on membership
 tripsmemberrush = tripsclean.groupby("member_casual")["rush_trip_weekly"].sum()
@@ -423,4 +423,4 @@ monthcountwide.to_csv("out_data/monthcount.csv", index = True)
 datemeanwide.to_csv("out_data/datemean.csv", index = True)
 datecountwide.to_csv("out_data/datecount.csv", index = True)
 datesumwide.to_csv("out_data/datesum.csv", index = True)
-dateAnalysis.to_csv("out_data/datesum.csv", index = True)
+dateAnalysis.to_csv("out_data/dateAnalysis.csv", index = True)
