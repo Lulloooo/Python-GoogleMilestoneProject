@@ -341,9 +341,9 @@ datemean = tripsclean.groupby(["member_casual", "date"])["trip_duration"].mean()
 datesum = tripsclean.groupby(["member_casual", "date"])["trip_duration"].sum().reset_index(name="sum")
 datecount = tripsclean.groupby(["member_casual", "date"])["trip_duration"].size().reset_index(name = "count")
 #merge them all to have them together
-datetry = pd.merge(datecount, datemean, on = "date")
-dateAnalysis = pd.merge(datetry, datesum, on = "date")
-dateAnalysis = dateAnalysis.drop(columns = ["member_casual_x", "member_casual_y"])
+dateAnalysis = pd.concat([datemean, datesum, datecount], axis = 1, join = "inner")
+#remove duplicate columns
+dateAnalysis = dateAnalysis.T.drop_duplicates().T
 #date df in wide shape
 datecountwide = datecount.pivot(index = "date", columns = "member_casual", values = "count")
 datemeanwide = datemean.pivot(index = "date", columns = "member_casual", values = "mean")
