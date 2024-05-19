@@ -337,9 +337,12 @@ monthcountwide["month_name"] = month_name
 monthsumwide["month_name"] = month_name
 monthmeanwide["month_name"] = month_name
 #date analysis
-datemean = tripsclean.groupby(["member_casual", "date"])["trip_duration"].mean().reset_index()
-datesum = tripsclean.groupby(["member_casual", "date"])["trip_duration"].sum().reset_index()
+datemean = tripsclean.groupby(["member_casual", "date"])["trip_duration"].mean().reset_index(name="mean")
+datesum = tripsclean.groupby(["member_casual", "date"])["trip_duration"].sum().reset_index(name="sum")
 datecount = tripsclean.groupby(["member_casual", "date"])["trip_duration"].size().reset_index(name = "count")
+#merge them all to have them together
+datetry = pd.merge(datecount, datemean, on = "date")
+dateAnalysis = pd.merge(datetry, datesum, on = "date")
 #date df in wide shape
 datecountwide = datecount.pivot(index = "date", columns = "member_casual", values = "count")
 datemeanwide = datemean.pivot(index = "date", columns = "member_casual", values = "trip_duration")
@@ -420,3 +423,4 @@ monthcountwide.to_csv("out_data/monthcount.csv", index = True)
 datemeanwide.to_csv("out_data/datemean.csv", index = True)
 datecountwide.to_csv("out_data/datecount.csv", index = True)
 datesumwide.to_csv("out_data/datesum.csv", index = True)
+dateAnalysis.to_csv("out_data/datesum.csv", index = True)
