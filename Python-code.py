@@ -343,6 +343,7 @@ datecount = tripsclean.groupby(["member_casual", "date"])["trip_duration"].size(
 #merge them all to have them together
 datetry = pd.merge(datecount, datemean, on = "date")
 dateAnalysis = pd.merge(datetry, datesum, on = "date")
+dateAnalysis = dateAnalysis.drop(columns = ["member_casual_x", "member_casual_y"])
 #date df in wide shape
 datecountwide = datecount.pivot(index = "date", columns = "member_casual", values = "count")
 datemeanwide = datemean.pivot(index = "date", columns = "member_casual", values = "mean")
