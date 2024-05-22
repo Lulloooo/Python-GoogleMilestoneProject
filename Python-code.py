@@ -172,7 +172,8 @@ tripsclean = trips[["ride_id",
                    "user_error"]]
 #save it
 tripsclean.to_csv("out_data/tripsclean.csv", index = False)
-############################# PROCESS #############################                             
+############################# PROCESS #############################  
+tripsclean = pd.read_csv("out_data/tripsclean.csv")                           
 #### SUMMARY ANALYSIS
 #travel time avg
 mean_travel_time = trips["trip_duration"].mean()
@@ -274,6 +275,17 @@ tripsclean = tripsclean.assign(rush_trip_weekly = rush_trip_weekly)
 print( "Number of weekly rush trips is:", tripsclean["rush_trip_weekly"].value_counts())
 #count the rush trips x user type
 print(tripsclean.groupby("member_casual")["rush_trip_weekly"].value_counts())
+#save it as a df
+rushtripCount = tripsclean.groupby("member_casual")["rush_trip_weekly"].value_counts()
+#change to a df
+rushtripCount = pd.DataFrame(rushtripCount)
+#add needed columns
+rushtripCount["member_casual"] = ["casual", "casual", "member", "member"]
+rushtripCount["rush_trip_weekly"] = ["No", "Yes", "No", "Yes"]
+#re-order the columns with reindex
+rushtripCount = rushtripCount.reindex(["member_casual", "rush_trip_weekly", "count"], axis = 1)
+
+rushtripCount.to_csv("out_data/rushtripCount2.csv", index = False)
 #summary stats for tripduration
 tripsduration = tripsclean["trip_duration"].describe()
 print(tripsduration)
@@ -314,9 +326,9 @@ tripscount = (tripsclean.groupby(
     .reset_index(name="count")
 )
 rush_trip_summary = (tripsclean.groupby(
-    ["member_casual", "day_of_week"]
+    ["member_casual", "day_of_week", "rush_trip_weekly"]
     )
-    ["rush_trip_weekly"].sum()
+    ["trip_duration"].sum()
     .reset_index()
 )
 #weekday only analysis
@@ -350,9 +362,13 @@ datemeanwide = datemean.pivot(index = "date", columns = "member_casual", values 
 datesumwide = datesum.pivot(index = "date", columns = "member_casual", values = "sum")
 datesumwide["total"] = datesumwide["casual"] + datesumwide["member"]
 #count rush trips based on membership
-tripsmemberrush = tripsclean.groupby("member_casual")["rush_trip_weekly"].sum()
+tripsmemberrush = (tripsclean.loc[tripsclean['rush_trip_weekly'] == "Yes"] #this filters the df for only rush_trips
+      .groupby("member_casual")
+      ["trip_duration"].sum())
 #count rush trip based on day of thr week
-tripsdayrush = tripsclean.groupby("day_of_week")["rush_trip_weekly"].sum()
+tripsdayrush = (tripsclean.loc[tripsclean['rush_trip_weekly'] == "Yes"] #this filters the df for only rush_trips
+      .groupby("day_of_week")
+      ["trip_duration"].sum())
 ### Station use
 #count how many times each station has been used during the year
 startStatCount = trips["start_station_name"].value_counts().reset_index().rename(columns={"index" : "station_name", "start_station_name" : "tot"})
@@ -407,12 +423,13 @@ tripsmean.to_csv('out_data/tripsmean.csv', index=False)
 tripssum.to_csv('out_data/tripssum.csv', index=False)
 tripsmax.to_csv('out_data/tripsmax.csv', index=False)
 tripsmin.to_csv('out_data/tripsmin.csv', index=False)
+rushtripCount.to_csv("out_data/rushtripCount.csv", index = False)
 rush_trip_summary.to_csv('out_data/rushtrip_total.csv', index=False)
 daymean.to_csv('out_data/daymean.csv', index=False)
 daysum.to_csv('out_data/daysum.csv', index=False)
 daycount.to_csv('out_data/daycount.csv', index=False)
-tripsmemberrush.to_csv('out_data/rushmembers.csv', index=False)
-tripsdayrush.to_csv('out_data/rushday.csv', index=False)
+tripsmemberrush.to_csv('out_data/rushmembers.csv', index=True)
+tripsdayrush.to_csv('out_data/rushday.csv', index=True)
 stationCount.to_csv("out_data/stationCount.csv", index = False)
 startStatCount.to_csv("out_data/startStatCount.csv", index = False)
 endStatCount.to_csv("out_data/endStatCount.csv", index = False)
