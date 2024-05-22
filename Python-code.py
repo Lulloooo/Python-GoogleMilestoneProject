@@ -173,7 +173,6 @@ tripsclean = trips[["ride_id",
 #save it
 tripsclean.to_csv("out_data/tripsclean.csv", index = False)
 ############################# PROCESS #############################  
-tripsclean = pd.read_csv("out_data/tripsclean.csv")                           
 #### SUMMARY ANALYSIS
 #travel time avg
 mean_travel_time = trips["trip_duration"].mean()
