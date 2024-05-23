@@ -1,0 +1,1212 @@
+start_station_name,start_lat,start_lng,member_casual,count
+2112 W Peterson Ave,41.9912,-87.6836,casual,127
+2112 W Peterson Ave,41.9912,-87.6836,member,372
+63rd St Beach,41.781,-87.5761,casual,693
+63rd St Beach,41.781,-87.5761,member,500
+900 W Harrison St,41.8748,-87.6498,casual,979
+900 W Harrison St,41.8748,-87.6498,member,6018
+Aberdeen St & Jackson Blvd,41.8777,-87.6548,casual,1291
+Aberdeen St & Jackson Blvd,41.8777,-87.6548,member,10740
+Aberdeen St & Monroe St,41.8804,-87.6555,casual,1274
+Aberdeen St & Monroe St,41.8804,-87.6555,member,8403
+Aberdeen St & Randolph St,41.8841,-87.6543,casual,1727
+Aberdeen St & Randolph St,41.8841,-87.6543,member,8830
+Ada St & Washington Blvd,41.8828,-87.6612,casual,774
+Ada St & Washington Blvd,41.8828,-87.6612,member,6914
+Adler Planetarium,41.8661,-87.6073,casual,12029
+Adler Planetarium,41.8661,-87.6073,member,4939
+Albany Ave & 26th St,41.8445,-87.702,casual,79
+Albany Ave & 26th St,41.8445,-87.702,member,144
+Albany Ave & Bloomingdale Ave,41.914,-87.7051,casual,1055
+Albany Ave & Bloomingdale Ave,41.914,-87.7051,member,2843
+Albany Ave & Montrose Ave,41.961,-87.7059,casual,271
+Albany Ave & Montrose Ave,41.961,-87.7059,member,753
+Archer (Damen) Ave & 37th St,41.8267,-87.6831,casual,97
+Archer (Damen) Ave & 37th St,41.8267,-87.6831,member,363
+Artesian Ave & Hubbard St,41.8895,-87.6882,casual,511
+Artesian Ave & Hubbard St,41.8895,-87.6882,member,6012
+Ashland Ave & 13th St,41.8652,-87.6665,casual,152
+Ashland Ave & 13th St,41.8652,-87.6665,member,1937
+Ashland Ave & 50th St,41.803,-87.6647,casual,37
+Ashland Ave & 50th St,41.803,-87.6647,member,52
+Ashland Ave & 63rd St,41.7794,-87.6648,casual,16
+Ashland Ave & 63rd St,41.7794,-87.6648,member,51
+Ashland Ave & Archer Ave,41.8392,-87.6656,casual,188
+Ashland Ave & Archer Ave,41.8392,-87.6656,member,439
+Ashland Ave & Augusta Blvd,41.8996,-87.6677,casual,602
+Ashland Ave & Augusta Blvd,41.8996,-87.6677,member,4697
+Ashland Ave & Belle Plaine Ave,41.9561,-87.6688,casual,509
+Ashland Ave & Belle Plaine Ave,41.9561,-87.6688,member,2293
+Ashland Ave & Blackhawk St,41.9071,-87.6673,casual,973
+Ashland Ave & Blackhawk St,41.9071,-87.6673,member,5657
+Ashland Ave & Chicago Ave,41.896,-87.6677,casual,940
+Ashland Ave & Chicago Ave,41.896,-87.6677,member,4690
+Ashland Ave & Division St,41.9035,-87.6677,casual,3058
+Ashland Ave & Division St,41.9035,-87.6677,member,16288
+Ashland Ave & Garfield Blvd,41.7928,-87.6644,casual,10
+Ashland Ave & Garfield Blvd,41.7928,-87.6644,member,143
+Ashland Ave & Grace St,41.9507,-87.6687,casual,728
+Ashland Ave & Grace St,41.9507,-87.6687,member,4011
+Ashland Ave & Grand Ave,41.8911,-87.6666,casual,547
+Ashland Ave & Grand Ave,41.8911,-87.6666,member,4030
+Ashland Ave & Lake St,41.8859,-87.6672,casual,609
+Ashland Ave & Lake St,41.8859,-87.6672,member,3741
+Ashland Ave & McDowell Ave,41.8089,-87.6645,casual,42
+Ashland Ave & McDowell Ave,41.8089,-87.6645,member,521
+Ashland Ave & Pershing Rd,41.8235,-87.6656,casual,64
+Ashland Ave & Pershing Rd,41.8235,-87.6656,member,304
+Ashland Ave & Wellington Ave,41.9361,-87.6698,casual,541
+Ashland Ave & Wellington Ave,41.9361,-87.6698,member,3136
+Ashland Ave & Wrightwood Ave,41.9288,-87.6685,casual,951
+Ashland Ave & Wrightwood Ave,41.9288,-87.6685,member,4318
+Austin Blvd & Chicago Ave,41.8949,-87.7747,casual,57
+Austin Blvd & Chicago Ave,41.8949,-87.7747,member,71
+Austin Blvd & Lake St,41.8879,-87.7744,casual,142
+Austin Blvd & Lake St,41.8879,-87.7744,member,286
+Austin Blvd & Madison St,41.8803,-87.7745,casual,84
+Austin Blvd & Madison St,41.8803,-87.7745,member,103
+Avers Ave & Belmont Ave,41.9394,-87.7236,casual,305
+Avers Ave & Belmont Ave,41.9394,-87.7236,member,901
+Avondale Ave & Irving Park Rd,41.9534,-87.732,casual,358
+Avondale Ave & Irving Park Rd,41.9534,-87.732,member,1474
+Bennett Ave & 79th St,41.7518,-87.5785,casual,13
+Bennett Ave & 79th St,41.7518,-87.5785,member,29
+Benson Ave & Church St,42.0482,-87.6835,casual,1127
+Benson Ave & Church St,42.0482,-87.6835,member,4184
+Bernard St & Elston Ave,41.9499,-87.7139,casual,107
+Bernard St & Elston Ave,41.9499,-87.7139,member,553
+Bissell St & Armitage Ave,41.9184,-87.6522,casual,2396
+Bissell St & Armitage Ave,41.9184,-87.6522,member,12966
+Blackstone Ave & Hyde Park Blvd,41.8026,-87.5904,casual,738
+Blackstone Ave & Hyde Park Blvd,41.8026,-87.5904,member,2728
+Blue Island Ave & 18th St,41.8576,-87.6615,casual,785
+Blue Island Ave & 18th St,41.8576,-87.6615,member,5489
+Bosworth Ave & Howard St,42.0195,-87.6696,casual,80
+Bosworth Ave & Howard St,42.0195,-87.6696,member,386
+Broadway & Argyle St,41.9738,-87.6597,casual,1130
+Broadway & Argyle St,41.9738,-87.6597,member,4275
+Broadway & Barry Ave,41.9377,-87.6441,casual,4187
+Broadway & Barry Ave,41.9377,-87.6441,member,13983
+Broadway & Belmont Ave,41.9401,-87.6455,casual,2759
+Broadway & Belmont Ave,41.9401,-87.6455,member,8151
+Broadway & Berwyn Ave,41.9784,-87.6598,casual,1085
+Broadway & Berwyn Ave,41.9784,-87.6598,member,4356
+Broadway & Cornelia Ave,41.9455,-87.6464,casual,3025
+Broadway & Cornelia Ave,41.9455,-87.6464,member,9450
+Broadway & Granville Ave,41.9948,-87.6603,casual,1648
+Broadway & Granville Ave,41.9948,-87.6603,member,2811
+Broadway & Ridge Ave,41.984,-87.6603,casual,932
+Broadway & Ridge Ave,41.984,-87.6603,member,3503
+Broadway & Sheridan Rd,41.9528,-87.65,casual,1613
+Broadway & Sheridan Rd,41.9528,-87.65,member,6892
+Broadway & Thorndale Ave,41.9897,-87.6601,casual,1403
+Broadway & Thorndale Ave,41.9897,-87.6601,member,2974
+Broadway & Waveland Ave,41.9491,-87.6486,casual,2001
+Broadway & Waveland Ave,41.9491,-87.6486,member,9089
+Broadway & Wilson Ave,41.9652,-87.6581,casual,1242
+Broadway & Wilson Ave,41.9652,-87.6581,member,6337
+Buckingham Fountain,41.8765,-87.6205,casual,3951
+Buckingham Fountain,41.8765,-87.6205,member,2732
+Budlong Woods Library,41.9837,-87.6964,casual,202
+Budlong Woods Library,41.9837,-87.6964,member,314
+Burling St (Halsted) & Diversey Pkwy (Temp),41.9331,-87.6478,casual,1357
+Burling St (Halsted) & Diversey Pkwy (Temp),41.9331,-87.6478,member,8491
+Burnham Harbor,41.8563,-87.6133,casual,3444
+Burnham Harbor,41.8563,-87.6133,member,7661
+California Ave & 21st St,41.8538,-87.6957,casual,179
+California Ave & 21st St,41.8538,-87.6957,member,691
+California Ave & 23rd Pl,41.8491,-87.6951,casual,85
+California Ave & 23rd Pl,41.8491,-87.6951,member,809
+California Ave & 26th St,41.844,-87.6953,casual,46
+California Ave & 26th St,41.844,-87.6953,member,121
+California Ave & Altgeld St,41.9267,-87.6977,casual,448
+California Ave & Altgeld St,41.9267,-87.6977,member,2097
+California Ave & Byron St,41.9522,-87.6981,casual,388
+California Ave & Byron St,41.9522,-87.6981,member,786
+California Ave & Cortez St,41.9004,-87.6967,casual,671
+California Ave & Cortez St,41.9004,-87.6967,member,3565
+California Ave & Division St,41.903,-87.6975,casual,631
+California Ave & Division St,41.903,-87.6975,member,1553
+California Ave & Fletcher St,41.9384,-87.698,casual,537
+California Ave & Fletcher St,41.9384,-87.698,member,1230
+California Ave & Francis Pl (Temp),41.9185,-87.6974,casual,96
+California Ave & Francis Pl (Temp),41.9185,-87.6974,member,755
+California Ave & Lake St,41.8845,-87.6963,casual,115
+California Ave & Lake St,41.8845,-87.6963,member,650
+California Ave & Milwaukee Ave,41.9227,-87.6972,casual,1903
+California Ave & Milwaukee Ave,41.9227,-87.6972,member,7170
+California Ave & Montrose Ave,41.9611,-87.6954,casual,514
+California Ave & Montrose Ave,41.9611,-87.6954,member,1352
+California Ave & North Ave,41.9104,-87.6972,casual,592
+California Ave & North Ave,41.9104,-87.6972,member,2679
+Calumet Ave & 18th St,41.8576,-87.6194,casual,2375
+Calumet Ave & 18th St,41.8576,-87.6194,member,5567
+Calumet Ave & 21st St,41.8542,-87.6192,casual,2038
+Calumet Ave & 21st St,41.8542,-87.6192,member,1940
+Calumet Ave & 33rd St,41.8349,-87.6179,casual,309
+Calumet Ave & 33rd St,41.8349,-87.6179,member,2801
+Calumet Ave & 35th St,41.8314,-87.618,casual,227
+Calumet Ave & 35th St,41.8314,-87.618,member,772
+Calumet Ave & 51st St,41.8023,-87.6181,casual,187
+Calumet Ave & 51st St,41.8023,-87.6181,member,491
+Calumet Ave & 71st St,41.7655,-87.6169,casual,28
+Calumet Ave & 71st St,41.7655,-87.6169,member,5
+Campbell Ave & Fullerton Ave,41.9246,-87.6893,casual,509
+Campbell Ave & Fullerton Ave,41.9246,-87.6893,member,2060
+Campbell Ave & Montrose Ave,41.9615,-87.6912,casual,209
+Campbell Ave & Montrose Ave,41.9615,-87.6912,member,2233
+Campbell Ave & North Ave,41.9105,-87.6896,casual,829
+Campbell Ave & North Ave,41.9105,-87.6896,member,3668
+Canal St & Adams St,41.8793,-87.6399,casual,3912
+Canal St & Adams St,41.8793,-87.6399,member,51901
+Canal St & Harrison St,41.8743,-87.6396,casual,289
+Canal St & Harrison St,41.8743,-87.6396,member,3110
+Canal St & Jackson Blvd,41.8772,-87.6394,casual,1278
+Canal St & Jackson Blvd,41.8772,-87.6394,member,9336
+Canal St & Madison St,41.8821,-87.6398,casual,2724
+Canal St & Madison St,41.8821,-87.6398,member,26154
+Canal St & Monroe St,41.8817,-87.6395,casual,1039
+Canal St & Monroe St,41.8817,-87.6395,member,11359
+Canal St & Taylor St,41.8703,-87.6395,casual,1436
+Canal St & Taylor St,41.8703,-87.6395,member,6291
+Cannon Dr & Fullerton Ave,41.9268,-87.6344,casual,3644
+Cannon Dr & Fullerton Ave,41.9268,-87.6344,member,2602
+Carpenter St & 63rd St,41.7799,-87.6509,casual,8
+Carpenter St & 63rd St,41.7799,-87.6509,member,6
+Carpenter St & Huron St,41.8946,-87.6534,casual,983
+Carpenter St & Huron St,41.8946,-87.6534,member,6364
+Central Ave & Chicago Ave,41.895,-87.7649,casual,55
+Central Ave & Chicago Ave,41.895,-87.7649,member,155
+Central Ave & Harrison St,41.873,-87.7645,casual,51
+Central Ave & Harrison St,41.873,-87.7645,member,26
+Central Ave & Lake St,41.8877,-87.7655,casual,53
+Central Ave & Lake St,41.8877,-87.7655,member,52
+Central Ave & Madison St,41.8801,-87.7632,casual,41
+Central Ave & Madison St,41.8801,-87.7632,member,97
+Central Park Ave & 24th St,41.8481,-87.7151,casual,45
+Central Park Ave & 24th St,41.8481,-87.7151,member,20
+Central Park Ave & Bloomingdale Ave,41.9142,-87.7168,casual,1069
+Central Park Ave & Bloomingdale Ave,41.9142,-87.7168,member,998
+Central Park Ave & Elbridge Ave,41.9353,-87.7169,casual,265
+Central Park Ave & Elbridge Ave,41.9353,-87.7169,member,1261
+Central Park Ave & North Ave,41.9097,-87.7166,casual,268
+Central Park Ave & North Ave,41.9097,-87.7166,member,835
+Central Park Ave & Ogden Ave,41.8542,-87.7154,casual,95
+Central Park Ave & Ogden Ave,41.8542,-87.7154,member,148
+Central Park Blvd & 5th Ave,41.8757,-87.7155,casual,35
+Central Park Blvd & 5th Ave,41.8757,-87.7155,member,53
+Central St & Girard Ave,42.0643,-87.6862,casual,173
+Central St & Girard Ave,42.0643,-87.6862,member,954
+Central St Metra,42.0636,-87.6987,casual,253
+Central St Metra,42.0636,-87.6987,member,1231
+Cherry Ave & Blackhawk St,41.9072,-87.6556,casual,148
+Cherry Ave & Blackhawk St,41.9072,-87.6556,member,580
+Chicago Ave & Dempster St,42.0417,-87.6807,casual,457
+Chicago Ave & Dempster St,42.0417,-87.6807,member,1411
+Chicago Ave & Sheridan Rd,42.0505,-87.6778,casual,687
+Chicago Ave & Sheridan Rd,42.0505,-87.6778,member,1300
+Chicago Ave & Washington St,42.0326,-87.6791,casual,474
+Chicago Ave & Washington St,42.0326,-87.6791,member,2278
+Christiana Ave & Lawrence Ave,41.9684,-87.7118,casual,272
+Christiana Ave & Lawrence Ave,41.9684,-87.7118,member,896
+Cicero Ave & Flournoy St,41.8721,-87.7466,casual,10
+Cicero Ave & Flournoy St,41.8721,-87.7466,member,20
+Cicero Ave & Lake St,41.8868,-87.7453,casual,30
+Cicero Ave & Lake St,41.8868,-87.7453,member,60
+Cicero Ave & Quincy St,41.8776,-87.7454,casual,35
+Cicero Ave & Quincy St,41.8776,-87.7454,member,20
+Cityfront Plaza Dr & Pioneer Ct,41.8906,-87.6221,casual,4027
+Cityfront Plaza Dr & Pioneer Ct,41.8906,-87.6221,member,10870
+Claremont Ave & Hirsch St,41.9078,-87.6859,casual,333
+Claremont Ave & Hirsch St,41.9078,-87.6859,member,3002
+Clarendon Ave & Gordon Ter,41.9579,-87.6495,casual,1650
+Clarendon Ave & Gordon Ter,41.9579,-87.6495,member,6194
+Clarendon Ave & Junior Ter,41.961,-87.6496,casual,1596
+Clarendon Ave & Junior Ter,41.961,-87.6496,member,3748
+Clarendon Ave & Leland Ave,41.968,-87.65,casual,890
+Clarendon Ave & Leland Ave,41.968,-87.65,member,2590
+Clark St & 9th St (AMLI),41.8708,-87.6312,casual,772
+Clark St & 9th St (AMLI),41.8708,-87.6312,member,3763
+Clark St & Armitage Ave,41.9183,-87.6363,casual,6703
+Clark St & Armitage Ave,41.9183,-87.6363,member,15194
+Clark St & Berwyn Ave,41.978,-87.668,casual,1445
+Clark St & Berwyn Ave,41.978,-87.668,member,5562
+Clark St & Bryn Mawr Ave,41.9836,-87.6692,casual,670
+Clark St & Bryn Mawr Ave,41.9836,-87.6692,member,3497
+Clark St & Chicago Ave,41.8968,-87.6309,casual,1935
+Clark St & Chicago Ave,41.8968,-87.6309,member,8539
+Clark St & Columbia Ave,42.0045,-87.6724,casual,144
+Clark St & Columbia Ave,42.0045,-87.6724,member,1319
+Clark St & Drummond Pl,41.9312,-87.6443,casual,3125
+Clark St & Drummond Pl,41.9312,-87.6443,member,10085
+Clark St & Elm St,41.903,-87.6313,casual,4290
+Clark St & Elm St,41.903,-87.6313,member,22164
+Clark St & Elmdale Ave,41.9905,-87.6698,casual,390
+Clark St & Elmdale Ave,41.9905,-87.6698,member,2008
+Clark St & Grace St,41.9508,-87.6592,casual,2334
+Clark St & Grace St,41.9508,-87.6592,member,5706
+Clark St & Ida B Wells Dr,41.8759,-87.6306,casual,960
+Clark St & Ida B Wells Dr,41.8759,-87.6306,member,11057
+Clark St & Jarvis Ave,42.016,-87.675,casual,140
+Clark St & Jarvis Ave,42.016,-87.675,member,583
+Clark St & Lake St,41.886,-87.6309,casual,2342
+Clark St & Lake St,41.886,-87.6309,member,13497
+Clark St & Leland Ave,41.9671,-87.6674,casual,715
+Clark St & Leland Ave,41.9671,-87.6674,member,4838
+Clark St & Lincoln Ave,41.9157,-87.6346,casual,6808
+Clark St & Lincoln Ave,41.9157,-87.6346,member,13130
+Clark St & Lunt Ave,42.0091,-87.6742,casual,373
+Clark St & Lunt Ave,42.0091,-87.6742,member,2493
+Clark St & Montrose Ave,41.9616,-87.666,casual,583
+Clark St & Montrose Ave,41.9616,-87.666,member,3895
+Clark St & Newport St,41.9445,-87.6547,casual,2850
+Clark St & Newport St,41.9445,-87.6547,member,6380
+Clark St & North Ave,41.912,-87.6319,casual,3656
+Clark St & North Ave,41.912,-87.6319,member,5870
+Clark St & Randolph St,41.8846,-87.6319,casual,2368
+Clark St & Randolph St,41.8846,-87.6319,member,13638
+Clark St & Schiller St,41.908,-87.6315,casual,2447
+Clark St & Schiller St,41.908,-87.6315,member,11568
+Clark St & Schreiber Ave,41.9993,-87.6714,casual,286
+Clark St & Schreiber Ave,41.9993,-87.6714,member,1163
+Clark St & Touhy Ave,42.0126,-87.6744,casual,51
+Clark St & Touhy Ave,42.0126,-87.6744,member,386
+Clark St & Wellington Ave,41.9365,-87.6475,casual,2124
+Clark St & Wellington Ave,41.9365,-87.6475,member,9317
+Clark St & Winnemac Ave,41.9733,-87.6678,casual,1234
+Clark St & Winnemac Ave,41.9733,-87.6678,member,6849
+Clark St & Wrightwood Ave,41.9295,-87.6431,casual,3197
+Clark St & Wrightwood Ave,41.9295,-87.6431,member,12459
+Clifton Ave & Armitage Ave,41.9182,-87.6569,casual,1347
+Clifton Ave & Armitage Ave,41.9182,-87.6569,member,6719
+Clinton St & 18th St,41.858,-87.6408,casual,405
+Clinton St & 18th St,41.858,-87.6408,member,2207
+Clinton St & Jackson Blvd,41.8781,-87.6398,casual,1251
+Clinton St & Jackson Blvd,41.8781,-87.6398,member,12962
+Clinton St & Lake St,41.8856,-87.6418,casual,1931
+Clinton St & Lake St,41.8856,-87.6418,member,21917
+Clinton St & Madison St,41.8822,-87.6411,casual,3949
+Clinton St & Madison St,41.8822,-87.6411,member,46142
+Clinton St & Polk St,41.8715,-87.6409,casual,255
+Clinton St & Polk St,41.8715,-87.6409,member,1105
+Clinton St & Roosevelt Rd,41.8671,-87.6411,casual,1203
+Clinton St & Roosevelt Rd,41.8671,-87.6411,member,4687
+Clinton St & Tilden St,41.8759,-87.6408,casual,526
+Clinton St & Tilden St,41.8759,-87.6408,member,6437
+Clinton St & Washington Blvd,41.8834,-87.6412,casual,2803
+Clinton St & Washington Blvd,41.8834,-87.6412,member,43553
+Clybourn Ave & Division St,41.9046,-87.6406,casual,574
+Clybourn Ave & Division St,41.9046,-87.6406,member,5523
+Columbus Dr & Randolph St,41.8847,-87.6195,casual,7908
+Columbus Dr & Randolph St,41.8847,-87.6195,member,31005
+Commercial Ave & 83rd St,41.7446,-87.5512,casual,25
+Commercial Ave & 83rd St,41.7446,-87.5512,member,28
+Conservatory Dr & Lake St,41.8855,-87.7169,casual,258
+Conservatory Dr & Lake St,41.8855,-87.7169,member,461
+Cornell Ave & Hyde Park Blvd,41.8024,-87.5869,casual,1773
+Cornell Ave & Hyde Park Blvd,41.8024,-87.5869,member,4497
+Cornell Dr & Hayes Dr,41.7806,-87.5848,casual,120
+Cornell Dr & Hayes Dr,41.7806,-87.5848,member,109
+Cottage Grove Ave & 43rd St,41.8165,-87.6066,casual,169
+Cottage Grove Ave & 43rd St,41.8165,-87.6066,member,640
+Cottage Grove Ave & 47th St,41.8099,-87.6068,casual,260
+Cottage Grove Ave & 47th St,41.8099,-87.6068,member,726
+Cottage Grove Ave & 51st St,41.803,-87.6066,casual,217
+Cottage Grove Ave & 51st St,41.803,-87.6066,member,732
+Cottage Grove Ave & 63rd St,41.7806,-87.6061,casual,111
+Cottage Grove Ave & 63rd St,41.7806,-87.6061,member,299
+Cottage Grove Ave & 67th St,41.7737,-87.6056,casual,34
+Cottage Grove Ave & 67th St,41.7737,-87.6056,member,97
+Cottage Grove Ave & 71st St,41.7657,-87.605,casual,27
+Cottage Grove Ave & 71st St,41.7657,-87.605,member,22
+Cottage Grove Ave & 78th St,41.7532,-87.605,casual,31
+Cottage Grove Ave & 78th St,41.7532,-87.605,member,47
+Cottage Grove Ave & 83rd St,41.7434,-87.6048,casual,79
+Cottage Grove Ave & 83rd St,41.7434,-87.6048,member,30
+Cottage Grove Ave & Oakwood Blvd,41.823,-87.6071,casual,409
+Cottage Grove Ave & Oakwood Blvd,41.823,-87.6071,member,386
+Daley Center Plaza,41.8842,-87.6296,casual,3550
+Daley Center Plaza,41.8842,-87.6296,member,30585
+Damen Ave & 51st St,41.8009,-87.6747,casual,20
+Damen Ave & 51st St,41.8009,-87.6747,member,40
+Damen Ave & Charleston St,41.9201,-87.6779,casual,920
+Damen Ave & Charleston St,41.9201,-87.6779,member,3510
+Damen Ave & Chicago Ave,41.8958,-87.6772,casual,1348
+Damen Ave & Chicago Ave,41.8958,-87.6772,member,8000
+Damen Ave & Clybourn Ave,41.9319,-87.6779,casual,562
+Damen Ave & Clybourn Ave,41.9319,-87.6779,member,2862
+Damen Ave & Cortland St,41.916,-87.6773,casual,2089
+Damen Ave & Cortland St,41.916,-87.6773,member,7082
+Damen Ave & Coulter St,41.8492,-87.6756,casual,53
+Damen Ave & Coulter St,41.8492,-87.6756,member,178
+Damen Ave & Cullerton St,41.855,-87.6757,casual,502
+Damen Ave & Cullerton St,41.855,-87.6757,member,1274
+Damen Ave & Division St,41.9033,-87.6784,casual,1128
+Damen Ave & Division St,41.9033,-87.6784,member,6862
+Damen Ave & Foster Ave,41.9756,-87.6795,casual,520
+Damen Ave & Foster Ave,41.9756,-87.6795,member,3251
+Damen Ave & Grand Ave,41.8912,-87.6769,casual,695
+Damen Ave & Grand Ave,41.8912,-87.6769,member,3941
+Damen Ave & Leland Ave,41.9671,-87.679,casual,721
+Damen Ave & Leland Ave,41.9671,-87.679,member,4977
+Damen Ave & Madison St,41.8814,-87.6749,casual,750
+Damen Ave & Madison St,41.8814,-87.6749,member,1373
+Damen Ave & Melrose Ave,41.9406,-87.6785,casual,568
+Damen Ave & Melrose Ave,41.9406,-87.6785,member,1837
+Damen Ave & Pershing Rd,41.8232,-87.6766,casual,107
+Damen Ave & Pershing Rd,41.8232,-87.6766,member,49
+Damen Ave & Pierce Ave,41.9094,-87.6777,casual,4154
+Damen Ave & Pierce Ave,41.9094,-87.6777,member,15722
+Damen Ave & Sunnyside Ave,41.9633,-87.6793,casual,413
+Damen Ave & Sunnyside Ave,41.9633,-87.6793,member,2035
+Damen Ave & Thomas St (Augusta Blvd),41.9013,-87.6774,casual,888
+Damen Ave & Thomas St (Augusta Blvd),41.9013,-87.6774,member,5519
+Damen Ave & Walnut (Lake) St (*),41.886,-87.677,casual,224
+Damen Ave & Walnut (Lake) St (*),41.886,-87.677,member,1676
+Damen Ave & Wellington Ave,41.9359,-87.6784,casual,671
+Damen Ave & Wellington Ave,41.9359,-87.6784,member,2942
+Dayton St & North Ave,41.9106,-87.6494,casual,1612
+Dayton St & North Ave,41.9106,-87.6494,member,8256
+Dearborn Pkwy & Delaware Pl,41.899,-87.6299,casual,2832
+Dearborn Pkwy & Delaware Pl,41.899,-87.6299,member,14230
+Dearborn St & Adams St,41.8794,-87.6298,casual,1751
+Dearborn St & Adams St,41.8794,-87.6298,member,10270
+Dearborn St & Erie St,41.894,-87.6293,casual,4114
+Dearborn St & Erie St,41.894,-87.6293,member,20663
+Dearborn St & Monroe St,41.8813,-87.6295,casual,2416
+Dearborn St & Monroe St,41.8813,-87.6295,member,17886
+Dearborn St & Van Buren St,41.8763,-87.6292,casual,899
+Dearborn St & Van Buren St,41.8763,-87.6292,member,3896
+Delano Ct & Roosevelt Rd,41.8675,-87.6322,casual,1431
+Delano Ct & Roosevelt Rd,41.8675,-87.6322,member,5166
+Desplaines St & Jackson Blvd,41.8783,-87.6439,casual,1368
+Desplaines St & Jackson Blvd,41.8783,-87.6439,member,12994
+Desplaines St & Kinzie St,41.8887,-87.6444,casual,2657
+Desplaines St & Kinzie St,41.8887,-87.6444,member,19821
+Desplaines St & Randolph St,41.8846,-87.6446,casual,1762
+Desplaines St & Randolph St,41.8846,-87.6446,member,9876
+Dodge Ave & Church St,42.0483,-87.6982,casual,207
+Dodge Ave & Church St,42.0483,-87.6982,member,771
+Dodge Ave & Mulford St,42.0235,-87.6996,casual,114
+Dodge Ave & Mulford St,42.0235,-87.6996,member,239
+Dorchester Ave & 49th St,41.8058,-87.5925,casual,149
+Dorchester Ave & 49th St,41.8058,-87.5925,member,592
+Dorchester Ave & 63rd St,41.7804,-87.5914,casual,211
+Dorchester Ave & 63rd St,41.7804,-87.5914,member,266
+Drake Ave & Addison St,41.9473,-87.7176,casual,211
+Drake Ave & Addison St,41.9473,-87.7176,member,1423
+Drake Ave & Fullerton Ave,41.9244,-87.7154,casual,504
+Drake Ave & Fullerton Ave,41.9244,-87.7154,member,1874
+Drake Ave & Montrose Ave,41.9612,-87.7166,casual,216
+Drake Ave & Montrose Ave,41.9612,-87.7166,member,785
+DuSable Museum,41.7916,-87.6079,casual,211
+DuSable Museum,41.7916,-87.6079,member,381
+Dusable Harbor,41.887,-87.6128,casual,12694
+Dusable Harbor,41.887,-87.6128,member,4771
+Eastlake Ter & Rogers Ave,42.0209,-87.6651,casual,363
+Eastlake Ter & Rogers Ave,42.0209,-87.6651,member,1819
+Eberhart Ave & 61st St,41.7841,-87.6133,casual,90
+Eberhart Ave & 61st St,41.7841,-87.6133,member,77
+Eckhart Park,41.8964,-87.661,casual,805
+Eckhart Park,41.8964,-87.661,member,5532
+Eggleston Ave & 69th St (*),41.7689,-87.6359,casual,8
+Eggleston Ave & 69th St (*),41.7689,-87.6359,member,29
+Elizabeth (May) St & Fulton St,41.8866,-87.658,casual,417
+Elizabeth (May) St & Fulton St,41.8866,-87.658,member,3723
+Elizabeth St & 47th St,41.8084,-87.6565,casual,7
+Elizabeth St & 47th St,41.8084,-87.6565,member,68
+Elizabeth St & 59th St,41.7867,-87.6559,member,10
+Ellis Ave & 53rd St,41.7993,-87.601,casual,533
+Ellis Ave & 53rd St,41.7993,-87.601,member,3811
+Ellis Ave & 55th St,41.7943,-87.6015,casual,1206
+Ellis Ave & 55th St,41.7943,-87.6015,member,7697
+Ellis Ave & 58th St,41.7887,-87.6013,casual,691
+Ellis Ave & 58th St,41.7887,-87.6013,member,5056
+Ellis Ave & 60th St,41.7851,-87.6011,casual,1328
+Ellis Ave & 60th St,41.7851,-87.6011,member,6457
+Ellis Ave & 83rd St,41.7441,-87.599,casual,27
+Ellis Ave & 83rd St,41.7441,-87.599,member,31
+Elmwood Ave & Austin St,42.0258,-87.6841,casual,167
+Elmwood Ave & Austin St,42.0258,-87.6841,member,794
+Elston Ave & Wabansia Ave,41.9129,-87.6642,casual,444
+Elston Ave & Wabansia Ave,41.9129,-87.6642,member,2211
+Emerald Ave & 28th St,41.8436,-87.6454,casual,204
+Emerald Ave & 28th St,41.8436,-87.6454,member,1929
+Emerald Ave & 31st St,41.8382,-87.6451,casual,280
+Emerald Ave & 31st St,41.8382,-87.6451,member,3121
+Evans Ave & 75th St,41.7585,-87.6064,casual,15
+Evans Ave & 75th St,41.7585,-87.6064,member,41
+Evanston Civic Center,42.057,-87.6866,casual,181
+Evanston Civic Center,42.057,-87.6866,member,277
+Exchange Ave & 79th St,41.7517,-87.5528,casual,20
+Exchange Ave & 79th St,41.7517,-87.5528,member,21
+Fairbanks Ct & Grand Ave,41.8918,-87.6206,casual,5197
+Fairbanks Ct & Grand Ave,41.8918,-87.6206,member,15464
+Fairbanks St & Superior St,41.8957,-87.6201,casual,975
+Fairbanks St & Superior St,41.8957,-87.6201,member,3979
+Fairfield Ave & Roosevelt Rd,41.8666,-87.6945,casual,162
+Fairfield Ave & Roosevelt Rd,41.8666,-87.6945,member,222
+Federal St & Polk St,41.8721,-87.6295,casual,2096
+Federal St & Polk St,41.8721,-87.6295,member,10145
+Field Blvd & South Water St,41.8863,-87.6175,casual,3150
+Field Blvd & South Water St,41.8863,-87.6175,member,7350
+Field Museum,41.8653,-87.6179,casual,7647
+Field Museum,41.8653,-87.6179,member,2423
+Financial Pl & Ida B Wells Dr,41.875,-87.6331,casual,702
+Financial Pl & Ida B Wells Dr,41.875,-87.6331,member,5193
+Fort Dearborn Dr & 31st St,41.8386,-87.6082,casual,4011
+Fort Dearborn Dr & 31st St,41.8386,-87.6082,member,3547
+Francisco Ave & Foster Ave,41.9756,-87.7014,casual,325
+Francisco Ave & Foster Ave,41.9756,-87.7014,member,1177
+Franklin St & Adams St (Temp),41.8794,-87.6355,casual,1233
+Franklin St & Adams St (Temp),41.8794,-87.6355,member,6006
+Franklin St & Chicago Ave,41.8967,-87.6357,casual,812
+Franklin St & Chicago Ave,41.8967,-87.6357,member,8191
+Franklin St & Illinois St,41.891,-87.6355,casual,672
+Franklin St & Illinois St,41.891,-87.6355,member,4623
+Franklin St & Jackson Blvd,41.8777,-87.6353,casual,3203
+Franklin St & Jackson Blvd,41.8777,-87.6353,member,16782
+Franklin St & Lake St,41.8858,-87.6355,casual,1767
+Franklin St & Lake St,41.8858,-87.6355,member,13768
+Franklin St & Monroe St,41.8803,-87.6352,casual,3510
+Franklin St & Monroe St,41.8803,-87.6352,member,30945
+Glenwood Ave & Morse Ave,42.008,-87.6655,casual,600
+Glenwood Ave & Morse Ave,42.008,-87.6655,member,2342
+Glenwood Ave & Touhy Ave,42.0127,-87.6661,casual,217
+Glenwood Ave & Touhy Ave,42.0127,-87.6661,member,917
+Green St & Madison St,41.8819,-87.6488,casual,2381
+Green St & Madison St,41.8819,-87.6488,member,13863
+Green St & Randolph St,41.8837,-87.6487,casual,3108
+Green St & Randolph St,41.8837,-87.6487,member,11031
+Greenview Ave & Diversey Pkwy,41.9326,-87.6659,casual,874
+Greenview Ave & Diversey Pkwy,41.9326,-87.6659,member,3418
+Greenview Ave & Fullerton Ave,41.9253,-87.6658,casual,1602
+Greenview Ave & Fullerton Ave,41.9253,-87.6658,member,5746
+Greenview Ave & Jarvis Ave,42.016,-87.6686,casual,355
+Greenview Ave & Jarvis Ave,42.016,-87.6686,member,1506
+Greenwood Ave & 47th St,41.8098,-87.5994,casual,416
+Greenwood Ave & 47th St,41.8098,-87.5994,member,1126
+Greenwood Ave & 79th St,41.7513,-87.5976,casual,21
+Greenwood Ave & 79th St,41.7513,-87.5976,member,106
+HQ QR,41.8899,-87.6803,casual,5
+HUBBARD ST BIKE CHECKING (LBS-WH-TEST),41.89,-87.6807,member,19
+Halsted St & 18th St,41.8575,-87.6463,casual,320
+Halsted St & 18th St,41.8575,-87.6463,member,1995
+Halsted St & 21st St,41.8538,-87.6466,casual,438
+Halsted St & 21st St,41.8538,-87.6466,member,1056
+Halsted St & 35th St,41.8307,-87.6472,casual,168
+Halsted St & 35th St,41.8307,-87.6472,member,696
+Halsted St & 37th St,41.8271,-87.6457,casual,69
+Halsted St & 37th St,41.8271,-87.6457,member,686
+Halsted St & 47th Pl,41.8081,-87.6456,casual,18
+Halsted St & 47th Pl,41.8081,-87.6456,member,231
+Halsted St & 51st St,41.8018,-87.6452,casual,18
+Halsted St & 51st St,41.8018,-87.6452,member,13
+Halsted St & 56th St,41.7929,-87.645,casual,23
+Halsted St & 56th St,41.7929,-87.645,member,51
+Halsted St & 59th St,41.7875,-87.6449,casual,16
+Halsted St & 59th St,41.7875,-87.6449,member,22
+Halsted St & 63rd St,41.7794,-87.6446,casual,25
+Halsted St & 63rd St,41.7794,-87.6446,member,153
+Halsted St & 69th St,41.7691,-87.6446,casual,37
+Halsted St & 69th St,41.7691,-87.6446,member,42
+Halsted St & Archer Ave,41.8472,-87.6468,casual,325
+Halsted St & Archer Ave,41.8472,-87.6468,member,1660
+Halsted St & Clybourn Ave,41.9097,-87.6481,casual,1524
+Halsted St & Clybourn Ave,41.9097,-87.6481,member,10287
+Halsted St & Dickens Ave,41.9199,-87.6488,casual,2052
+Halsted St & Dickens Ave,41.9199,-87.6488,member,8876
+Halsted St & Maxwell St,41.8649,-87.6471,casual,985
+Halsted St & Maxwell St,41.8649,-87.6471,member,6050
+Halsted St & North Branch St,41.8994,-87.6485,casual,270
+Halsted St & North Branch St,41.8994,-87.6485,member,1635
+Halsted St & Polk St,41.8718,-87.6466,casual,840
+Halsted St & Polk St,41.8718,-87.6466,member,7516
+Halsted St & Roosevelt Rd,41.8673,-87.6486,casual,667
+Halsted St & Roosevelt Rd,41.8673,-87.6486,member,5971
+Halsted St & Roscoe St,41.9437,-87.649,casual,2641
+Halsted St & Roscoe St,41.9437,-87.649,member,8053
+Halsted St & Willow St,41.9139,-87.6488,casual,1213
+Halsted St & Willow St,41.9139,-87.6488,member,6395
+Halsted St & Wrightwood Ave,41.9291,-87.6491,casual,1585
+Halsted St & Wrightwood Ave,41.9291,-87.6491,member,8150
+Harper Ave & 59th St,41.7879,-87.5883,casual,537
+Harper Ave & 59th St,41.7879,-87.5883,member,2769
+Hermitage Ave & Polk St,41.8715,-87.6699,casual,315
+Hermitage Ave & Polk St,41.8715,-87.6699,member,4559
+Honore St & Division St,41.9031,-87.6739,casual,1582
+Honore St & Division St,41.9031,-87.6739,member,6858
+Hoyne Ave & 47th St,41.8082,-87.6772,casual,37
+Hoyne Ave & 47th St,41.8082,-87.6772,member,152
+Hoyne Ave & Balmoral Ave,41.9799,-87.6819,casual,339
+Hoyne Ave & Balmoral Ave,41.9799,-87.6819,member,1362
+Humboldt Blvd & Armitage Ave,41.9175,-87.7018,casual,964
+Humboldt Blvd & Armitage Ave,41.9175,-87.7018,member,2869
+Indiana Ave & 26th St,41.8457,-87.6225,casual,452
+Indiana Ave & 26th St,41.8457,-87.6225,member,1969
+Indiana Ave & 31st St,41.8388,-87.6219,casual,409
+Indiana Ave & 31st St,41.8388,-87.6219,member,2576
+Indiana Ave & 40th St,41.8217,-87.6216,casual,116
+Indiana Ave & 40th St,41.8217,-87.6216,member,278
+Indiana Ave & Roosevelt Rd,41.8679,-87.623,casual,8224
+Indiana Ave & Roosevelt Rd,41.8679,-87.623,member,13539
+Jefferson St & Monroe St,41.8804,-87.6427,casual,897
+Jefferson St & Monroe St,41.8804,-87.6427,member,7881
+Jeffery Blvd & 67th St,41.7735,-87.5771,casual,319
+Jeffery Blvd & 67th St,41.7735,-87.5771,member,87
+Jeffery Blvd & 71st St,41.7666,-87.5764,casual,77
+Jeffery Blvd & 71st St,41.7666,-87.5764,member,153
+Jeffery Blvd & 76th St,41.7571,-87.5758,casual,43
+Jeffery Blvd & 76th St,41.7571,-87.5758,member,82
+Karlov Ave & Madison St,41.8809,-87.7279,casual,27
+Karlov Ave & Madison St,41.8809,-87.7279,member,83
+Kedzie Ave & 21st St,41.8535,-87.7051,casual,76
+Kedzie Ave & 21st St,41.8535,-87.7051,member,355
+Kedzie Ave & 24th St,41.8482,-87.7054,casual,32
+Kedzie Ave & 24th St,41.8482,-87.7054,member,82
+Kedzie Ave & Bryn Mawr Ave,41.9824,-87.7089,casual,255
+Kedzie Ave & Bryn Mawr Ave,41.9824,-87.7089,member,325
+Kedzie Ave & Chicago Ave,41.8955,-87.7061,casual,146
+Kedzie Ave & Chicago Ave,41.8955,-87.7061,member,544
+Kedzie Ave & Foster Ave,41.9757,-87.7093,casual,201
+Kedzie Ave & Foster Ave,41.9757,-87.7093,member,764
+Kedzie Ave & Harrison St,41.8736,-87.7049,casual,36
+Kedzie Ave & Harrison St,41.8736,-87.7049,member,120
+Kedzie Ave & Lake St,41.8846,-87.7063,casual,168
+Kedzie Ave & Lake St,41.8846,-87.7063,member,645
+Kedzie Ave & Leland Ave,41.9667,-87.7081,casual,289
+Kedzie Ave & Leland Ave,41.9667,-87.7081,member,967
+Kedzie Ave & Milwaukee Ave,41.9296,-87.7079,casual,2409
+Kedzie Ave & Milwaukee Ave,41.9296,-87.7079,member,6680
+Kedzie Ave & Palmer Ct,41.9215,-87.7073,casual,637
+Kedzie Ave & Palmer Ct,41.9215,-87.7073,member,3270
+Kedzie Ave & Roosevelt Rd,41.8665,-87.7065,casual,67
+Kedzie Ave & Roosevelt Rd,41.8665,-87.7065,member,141
+Kenton Ave & Madison St,41.8807,-87.741,casual,21
+Kenton Ave & Madison St,41.8807,-87.741,member,33
+Keystone Ave & Fullerton Ave,41.9246,-87.7279,casual,199
+Keystone Ave & Fullerton Ave,41.9246,-87.7279,member,607
+Keystone Ave & Montrose Ave,41.9611,-87.729,casual,124
+Keystone Ave & Montrose Ave,41.9611,-87.729,member,466
+Kilbourn Ave & Irving Park Rd,41.9537,-87.7406,casual,64
+Kilbourn Ave & Irving Park Rd,41.9537,-87.7406,member,422
+Kilbourn Ave & Milwaukee Ave,41.9488,-87.74,casual,186
+Kilbourn Ave & Milwaukee Ave,41.9488,-87.74,member,480
+Kildare Ave & Montrose Ave,41.9611,-87.7357,casual,154
+Kildare Ave & Montrose Ave,41.9611,-87.7357,member,278
+Kimball Ave & Belmont Ave,41.9394,-87.7116,casual,409
+Kimball Ave & Belmont Ave,41.9394,-87.7116,member,1294
+Kimbark Ave & 53rd St,41.7996,-87.5947,casual,1169
+Kimbark Ave & 53rd St,41.7996,-87.5947,member,7412
+Kingsbury St & Erie St,41.8938,-87.6417,casual,1721
+Kingsbury St & Erie St,41.8938,-87.6417,member,17432
+Kingsbury St & Kinzie St,41.8892,-87.6385,casual,2417
+Kingsbury St & Kinzie St,41.8892,-87.6385,member,30882
+Knox Ave & Montrose Ave,41.9606,-87.7454,casual,144
+Knox Ave & Montrose Ave,41.9606,-87.7454,member,476
+Kosciuszko Park,41.9306,-87.7238,casual,261
+Kosciuszko Park,41.9306,-87.7238,member,1862
+Kostner Ave & Adams St,41.8779,-87.7357,casual,7
+Kostner Ave & Adams St,41.8779,-87.7357,member,83
+Kostner Ave & Lake St,41.8859,-87.7354,casual,10
+Kostner Ave & Lake St,41.8859,-87.7354,member,11
+LaSalle Dr & Huron St,41.8949,-87.6323,casual,1693
+LaSalle Dr & Huron St,41.8949,-87.6323,member,6299
+LaSalle St & Adams St,41.8793,-87.632,casual,1135
+LaSalle St & Adams St,41.8793,-87.632,member,5623
+LaSalle St & Illinois St,41.8908,-87.6317,casual,4103
+LaSalle St & Illinois St,41.8908,-87.6317,member,14274
+LaSalle St & Jackson Blvd,41.8782,-87.6319,casual,2421
+LaSalle St & Jackson Blvd,41.8782,-87.6319,member,22849
+LaSalle St & Washington St,41.8827,-87.6325,casual,1450
+LaSalle St & Washington St,41.8827,-87.6325,member,9894
+Laflin St & Cullerton St,41.8549,-87.6636,casual,39
+Laflin St & Cullerton St,41.8549,-87.6636,member,234
+Lake Park Ave & 35th St,41.8313,-87.6088,casual,1078
+Lake Park Ave & 35th St,41.8313,-87.6088,member,1556
+Lake Park Ave & 47th St,41.8094,-87.5919,casual,830
+Lake Park Ave & 47th St,41.8094,-87.5919,member,1191
+Lake Park Ave & 53rd St,41.7995,-87.5865,casual,1402
+Lake Park Ave & 53rd St,41.7995,-87.5865,member,2883
+Lake Park Ave & 56th St,41.7932,-87.5878,casual,972
+Lake Park Ave & 56th St,41.7932,-87.5878,member,4563
+Lake Shore Dr & Belmont Ave,41.9408,-87.6392,casual,5949
+Lake Shore Dr & Belmont Ave,41.9408,-87.6392,member,7932
+Lake Shore Dr & Diversey Pkwy,41.9326,-87.6364,casual,4775
+Lake Shore Dr & Diversey Pkwy,41.9326,-87.6364,member,7498
+Lake Shore Dr & Monroe St,41.881,-87.6167,casual,39685
+Lake Shore Dr & Monroe St,41.881,-87.6167,member,10833
+Lake Shore Dr & North Blvd,41.9117,-87.6268,casual,19147
+Lake Shore Dr & North Blvd,41.9117,-87.6268,member,15835
+Lake Shore Dr & Ohio St,41.8926,-87.6145,casual,6535
+Lake Shore Dr & Ohio St,41.8926,-87.6145,member,8371
+Lake Shore Dr & Wellington Ave,41.9367,-87.6368,casual,4508
+Lake Shore Dr & Wellington Ave,41.9367,-87.6368,member,8395
+Lakefront Trail & Bryn Mawr Ave,41.984,-87.6523,casual,4583
+Lakefront Trail & Bryn Mawr Ave,41.984,-87.6523,member,5345
+Lakefront Trail & Wilson Ave,41.9658,-87.6454,casual,2507
+Lakefront Trail & Wilson Ave,41.9658,-87.6454,member,3703
+Lakeview Ave & Fullerton Pkwy,41.9259,-87.639,casual,5099
+Lakeview Ave & Fullerton Pkwy,41.9259,-87.639,member,9653
+Laramie Ave & Gladys Ave,41.8758,-87.7553,casual,13
+Laramie Ave & Gladys Ave,41.8758,-87.7553,member,32
+Laramie Ave & Kinzie St,41.8878,-87.7555,casual,30
+Laramie Ave & Kinzie St,41.8878,-87.7555,member,42
+Laramie Ave & Madison St,41.8802,-87.7553,casual,50
+Laramie Ave & Madison St,41.8802,-87.7553,member,96
+Larrabee St & Armitage Ave,41.9181,-87.6437,casual,1583
+Larrabee St & Armitage Ave,41.9181,-87.6437,member,6138
+Larrabee St & Division St,41.9035,-87.6434,casual,1429
+Larrabee St & Division St,41.9035,-87.6434,member,8609
+Larrabee St & Kingsbury St,41.8978,-87.6429,casual,1927
+Larrabee St & Kingsbury St,41.8978,-87.6429,member,21161
+Larrabee St & Menomonee St,41.9147,-87.6433,casual,503
+Larrabee St & Menomonee St,41.9147,-87.6433,member,4650
+Larrabee St & North Ave,41.9102,-87.6435,casual,594
+Larrabee St & North Ave,41.9102,-87.6435,member,3379
+Larrabee St & Oak St,41.9002,-87.643,casual,773
+Larrabee St & Oak St,41.9002,-87.643,member,7908
+Larrabee St & Webster Ave,41.9218,-87.6441,casual,3062
+Larrabee St & Webster Ave,41.9218,-87.6441,member,10076
+Latrobe Ave & Chicago Ave,41.8947,-87.7569,casual,23
+Latrobe Ave & Chicago Ave,41.8947,-87.7569,member,65
+Leavitt St & Addison St,41.9467,-87.6834,casual,382
+Leavitt St & Addison St,41.9467,-87.6834,member,1301
+Leavitt St & Archer Ave,41.8288,-87.6806,casual,141
+Leavitt St & Archer Ave,41.8288,-87.6806,member,303
+Leavitt St & Armitage Ave,41.9178,-87.6824,casual,688
+Leavitt St & Armitage Ave,41.9178,-87.6824,member,3236
+Leavitt St & Belmont Ave (*),41.9394,-87.6833,casual,385
+Leavitt St & Belmont Ave (*),41.9394,-87.6833,member,1342
+Leavitt St & Chicago Ave,41.8955,-87.682,casual,559
+Leavitt St & Chicago Ave,41.8955,-87.682,member,3382
+Leavitt St & Division St (*),41.903,-87.6838,casual,281
+Leavitt St & Division St (*),41.903,-87.6838,member,2454
+Leavitt St & Lawrence Ave,41.9689,-87.684,casual,360
+Leavitt St & Lawrence Ave,41.9689,-87.684,member,2232
+Leavitt St & North Ave,41.9102,-87.6823,casual,971
+Leavitt St & North Ave,41.9102,-87.6823,member,4254
+Lincoln Ave & Addison St,41.9462,-87.6733,casual,352
+Lincoln Ave & Addison St,41.9462,-87.6733,member,1989
+Lincoln Ave & Belle Plaine Ave,41.956,-87.6803,casual,750
+Lincoln Ave & Belle Plaine Ave,41.956,-87.6803,member,3389
+Lincoln Ave & Belmont Ave,41.9394,-87.6684,casual,1182
+Lincoln Ave & Belmont Ave,41.9394,-87.6684,member,5522
+Lincoln Ave & Diversey Pkwy,41.9322,-87.6586,casual,1501
+Lincoln Ave & Diversey Pkwy,41.9322,-87.6586,member,6145
+Lincoln Ave & Fullerton Ave,41.9259,-87.6493,casual,3006
+Lincoln Ave & Fullerton Ave,41.9259,-87.6493,member,10995
+Lincoln Ave & Roscoe St,41.9433,-87.671,casual,1263
+Lincoln Ave & Roscoe St,41.9433,-87.671,member,7060
+Lincoln Ave & Sunnyside Ave,41.963,-87.6848,casual,671
+Lincoln Ave & Sunnyside Ave,41.963,-87.6848,member,3985
+Lincoln Ave & Waveland Ave,41.9488,-87.6753,casual,563
+Lincoln Ave & Waveland Ave,41.9488,-87.6753,member,3619
+Lincoln Ave & Winona St,41.9749,-87.6925,casual,333
+Lincoln Ave & Winona St,41.9749,-87.6925,member,1271
+Lincoln Park Conservatory,41.9239,-87.6358,casual,2075
+Lincoln Park Conservatory,41.9239,-87.6358,member,1943
+Lincolnwood Dr & Central St,42.0649,-87.7153,casual,137
+Lincolnwood Dr & Central St,42.0649,-87.7153,member,623
+Logan Blvd & Elston Ave,41.9295,-87.6842,casual,650
+Logan Blvd & Elston Ave,41.9295,-87.6842,member,3532
+Loomis St & Archer Ave,41.8416,-87.6574,casual,186
+Loomis St & Archer Ave,41.8416,-87.6574,member,1163
+Loomis St & Jackson Blvd,41.8779,-87.662,casual,481
+Loomis St & Jackson Blvd,41.8779,-87.662,member,3701
+Loomis St & Lexington St,41.8722,-87.6615,casual,882
+Loomis St & Lexington St,41.8722,-87.6615,member,12924
+MLK Jr Dr & 29th St,41.8421,-87.617,casual,747
+MLK Jr Dr & 29th St,41.8421,-87.617,member,6892
+MLK Jr Dr & 47th St,41.8099,-87.6163,casual,114
+MLK Jr Dr & 47th St,41.8099,-87.6163,member,273
+MLK Jr Dr & 56th St,41.7934,-87.6159,casual,55
+MLK Jr Dr & 56th St,41.7934,-87.6159,member,97
+MLK Jr Dr & 63rd St,41.7801,-87.6159,casual,46
+MLK Jr Dr & 63rd St,41.7801,-87.6159,member,82
+MLK Jr Dr & 83rd St,41.7431,-87.6148,casual,67
+MLK Jr Dr & 83rd St,41.7431,-87.6148,member,104
+MLK Jr Dr & Pershing Rd,41.8246,-87.6168,casual,234
+MLK Jr Dr & Pershing Rd,41.8246,-87.6168,member,819
+MTL-ECO5.1-01,41.9171,-87.7482,casual,1
+MTL-ECO5.1-01,41.9171,-87.7482,member,3
+Malcolm X College,41.8776,-87.6739,casual,259
+Malcolm X College,41.8776,-87.6739,member,1257
+Manor Ave & Leland Ave,41.9659,-87.7008,casual,134
+Manor Ave & Leland Ave,41.9659,-87.7008,member,1002
+Maplewood Ave & Peterson Ave,41.9902,-87.6934,casual,95
+Maplewood Ave & Peterson Ave,41.9902,-87.6934,member,196
+Marine Dr & Ainslie St,41.9716,-87.6502,casual,1997
+Marine Dr & Ainslie St,41.9716,-87.6502,member,3272
+Marshfield Ave & 44th St,41.814,-87.6666,casual,33
+Marshfield Ave & 44th St,41.814,-87.6666,member,57
+Marshfield Ave & 59th St,41.7868,-87.6662,casual,14
+Marshfield Ave & 59th St,41.7868,-87.6662,member,30
+Marshfield Ave & Cortland St,41.916,-87.6689,casual,2174
+Marshfield Ave & Cortland St,41.916,-87.6689,member,12882
+May St & 69th St,41.7689,-87.6529,casual,10
+May St & 69th St,41.7689,-87.6529,member,16
+May St & Cullerton St,41.8551,-87.6541,casual,272
+May St & Cullerton St,41.8551,-87.6541,member,1583
+May St & Taylor St,41.8695,-87.6555,casual,1195
+May St & Taylor St,41.8695,-87.6555,member,6232
+McClurg Ct & Erie St,41.8945,-87.6179,casual,2926
+McClurg Ct & Erie St,41.8945,-87.6179,member,12859
+McClurg Ct & Illinois St,41.8904,-87.6175,casual,7074
+McClurg Ct & Illinois St,41.8904,-87.6175,member,13203
+McCormick Place,41.8514,-87.6188,casual,3679
+McCormick Place,41.8514,-87.6188,member,1878
+Michigan Ave & 14th St,41.8641,-87.6237,casual,1606
+Michigan Ave & 14th St,41.8641,-87.6237,member,7334
+Michigan Ave & 18th St,41.8578,-87.6246,casual,1375
+Michigan Ave & 18th St,41.8578,-87.6246,member,8107
+Michigan Ave & 71st St,41.7653,-87.6217,casual,8
+Michigan Ave & 71st St,41.7653,-87.6217,member,5
+Michigan Ave & 8th St,41.8728,-87.624,casual,9709
+Michigan Ave & 8th St,41.8728,-87.624,member,5434
+Michigan Ave & Ida B Wells Dr,41.8762,-87.6244,casual,4047
+Michigan Ave & Ida B Wells Dr,41.8762,-87.6244,member,4342
+Michigan Ave & Jackson Blvd,41.8779,-87.6241,casual,7032
+Michigan Ave & Jackson Blvd,41.8779,-87.6241,member,8641
+Michigan Ave & Lake St,41.886,-87.6241,casual,5516
+Michigan Ave & Lake St,41.886,-87.6241,member,17324
+Michigan Ave & Madison St,41.8821,-87.6251,casual,2909
+Michigan Ave & Madison St,41.8821,-87.6251,member,8327
+Michigan Ave & Oak St,41.901,-87.6238,casual,21631
+Michigan Ave & Oak St,41.901,-87.6238,member,14313
+Michigan Ave & Pearson St,41.8977,-87.6235,casual,5441
+Michigan Ave & Pearson St,41.8977,-87.6235,member,5546
+Michigan Ave & Washington St,41.884,-87.6247,casual,12378
+Michigan Ave & Washington St,41.884,-87.6247,member,24845
+Mies van der Rohe Way & Chestnut St,41.8986,-87.6219,casual,4634
+Mies van der Rohe Way & Chestnut St,41.8986,-87.6219,member,9846
+Mies van der Rohe Way & Chicago Ave,41.8969,-87.6217,casual,3498
+Mies van der Rohe Way & Chicago Ave,41.8969,-87.6217,member,9083
+Millard Ave & 26th St,41.8446,-87.7159,casual,65
+Millard Ave & 26th St,41.8446,-87.7159,member,102
+Millennium Park,41.881,-87.6241,casual,21899
+Millennium Park,41.881,-87.6241,member,12627
+Milwaukee Ave & Cuyler Ave,41.9545,-87.7496,casual,86
+Milwaukee Ave & Cuyler Ave,41.9545,-87.7496,member,485
+Milwaukee Ave & Grand Ave,41.8916,-87.6484,casual,2067
+Milwaukee Ave & Grand Ave,41.8916,-87.6484,member,13400
+Milwaukee Ave & Rockwell St,41.9202,-87.693,casual,787
+Milwaukee Ave & Rockwell St,41.9202,-87.693,member,2384
+Milwaukee Ave & Wabansia Ave,41.9126,-87.6814,casual,2056
+Milwaukee Ave & Wabansia Ave,41.9126,-87.6814,member,8064
+Monticello Ave & Irving Park Rd,41.954,-87.7191,casual,195
+Monticello Ave & Irving Park Rd,41.954,-87.7191,member,861
+Montrose Harbor,41.964,-87.6382,casual,8341
+Montrose Harbor,41.964,-87.6382,member,5543
+Morgan Ave & 14th Pl,41.8624,-87.6511,casual,421
+Morgan Ave & 14th Pl,41.8624,-87.6511,member,3681
+Morgan St & 18th St,41.8581,-87.6511,casual,904
+Morgan St & 18th St,41.8581,-87.6511,member,3390
+Morgan St & 31st St,41.8378,-87.6511,casual,373
+Morgan St & 31st St,41.8378,-87.6511,member,1461
+Morgan St & Lake St,41.8855,-87.6523,casual,2649
+Morgan St & Lake St,41.8855,-87.6523,member,15595
+Morgan St & Pershing Rd,41.8236,-87.6509,casual,15
+Morgan St & Pershing Rd,41.8236,-87.6509,member,114
+Morgan St & Polk St,41.8717,-87.651,casual,981
+Morgan St & Polk St,41.8717,-87.651,member,12562
+Museum of Science and Industry,41.7917,-87.5839,casual,2652
+Museum of Science and Industry,41.7917,-87.5839,member,1040
+Noble St & Milwaukee Ave,41.9007,-87.6626,casual,866
+Noble St & Milwaukee Ave,41.9007,-87.6626,member,5765
+Normal Ave & Archer Ave,41.8495,-87.6406,casual,153
+Normal Ave & Archer Ave,41.8495,-87.6406,member,1018
+Oakley Ave & Irving Park Rd,41.9543,-87.6861,casual,311
+Oakley Ave & Irving Park Rd,41.9543,-87.6861,member,1488
+Oakley Ave & Touhy Ave,42.0123,-87.6882,casual,182
+Oakley Ave & Touhy Ave,42.0123,-87.6882,member,266
+Ogden Ave & Chicago Ave,41.8964,-87.6541,casual,1430
+Ogden Ave & Chicago Ave,41.8964,-87.6541,member,8714
+Ogden Ave & Congress Pkwy,41.875,-87.6733,casual,141
+Ogden Ave & Congress Pkwy,41.875,-87.6733,member,1441
+Ogden Ave & Race Ave,41.8918,-87.6588,casual,834
+Ogden Ave & Race Ave,41.8918,-87.6588,member,7308
+Ogden Ave & Roosevelt Rd,41.8665,-87.6847,casual,185
+Ogden Ave & Roosevelt Rd,41.8665,-87.6847,member,1354
+Orleans St & Chestnut St (NEXT Apts),41.8982,-87.6375,casual,1176
+Orleans St & Chestnut St (NEXT Apts),41.8982,-87.6375,member,6998
+Orleans St & Elm St,41.9029,-87.6377,casual,384
+Orleans St & Elm St,41.9029,-87.6377,member,2916
+Orleans St & Hubbard St,41.89,-87.6366,casual,728
+Orleans St & Hubbard St,41.89,-87.6366,member,5247
+Orleans St & Merchandise Mart Plaza,41.8882,-87.6364,casual,2602
+Orleans St & Merchandise Mart Plaza,41.8882,-87.6364,member,21393
+Paulina Ave & North Ave,41.9103,-87.6701,casual,1333
+Paulina Ave & North Ave,41.9103,-87.6701,member,5647
+Paulina St & 18th St,41.8579,-87.6687,casual,585
+Paulina St & 18th St,41.8579,-87.6687,member,2872
+Paulina St & Flournoy St,41.873,-87.6691,casual,553
+Paulina St & Flournoy St,41.873,-87.6691,member,5151
+Paulina St & Howard St,42.0192,-87.6736,casual,462
+Paulina St & Howard St,42.0192,-87.6736,member,2070
+Paulina St & Montrose Ave,41.9615,-87.6714,casual,529
+Paulina St & Montrose Ave,41.9615,-87.6714,member,2043
+Peoria St & Jackson Blvd,41.8776,-87.6496,casual,1469
+Peoria St & Jackson Blvd,41.8776,-87.6496,member,12185
+Perry Ave & 69th St,41.7693,-87.6282,casual,30
+Perry Ave & 69th St,41.7693,-87.6282,member,85
+Phillips Ave & 79th St,41.7518,-87.5652,casual,24
+Phillips Ave & 79th St,41.7518,-87.5652,member,42
+Phillips Ave & 83rd St,41.7445,-87.5651,casual,27
+Phillips Ave & 83rd St,41.7445,-87.5651,member,52
+Pine Grove Ave & Irving Park Rd,41.9544,-87.648,casual,1773
+Pine Grove Ave & Irving Park Rd,41.9544,-87.648,member,7815
+Pine Grove Ave & Waveland Ave,41.9493,-87.6463,casual,2994
+Pine Grove Ave & Waveland Ave,41.9493,-87.6463,member,9237
+Prairie Ave & 43rd St,41.8167,-87.6194,casual,318
+Prairie Ave & 43rd St,41.8167,-87.6194,member,418
+Prairie Ave & Garfield Blvd,41.7949,-87.6187,casual,283
+Prairie Ave & Garfield Blvd,41.7949,-87.6187,member,1075
+Princeton Ave & 47th St,41.8093,-87.6334,casual,60
+Princeton Ave & 47th St,41.8093,-87.6334,member,256
+Princeton Ave & Garfield Blvd,41.795,-87.6331,casual,45
+Princeton Ave & Garfield Blvd,41.795,-87.6331,member,452
+Pulaski Rd & Congress Pkwy,41.8743,-87.7257,casual,25
+Pulaski Rd & Congress Pkwy,41.8743,-87.7257,member,92
+Pulaski Rd & Eddy St (Temp),41.9463,-87.731,casual,150
+Pulaski Rd & Eddy St (Temp),41.9463,-87.731,member,538
+Pulaski Rd & Lake St,41.8854,-87.7265,casual,31
+Pulaski Rd & Lake St,41.8854,-87.7265,member,94
+Racine Ave & 13th St,41.8651,-87.657,casual,196
+Racine Ave & 13th St,41.8651,-87.657,member,893
+Racine Ave & 15th St,41.8613,-87.6566,casual,239
+Racine Ave & 15th St,41.8613,-87.6566,member,1562
+Racine Ave & 18th St,41.8582,-87.6565,casual,984
+Racine Ave & 18th St,41.8582,-87.6565,member,3966
+Racine Ave & 35th St,41.8307,-87.656,casual,137
+Racine Ave & 35th St,41.8307,-87.656,member,574
+Racine Ave & 61st St,41.7832,-87.6544,casual,6
+Racine Ave & 61st St,41.7832,-87.6544,member,4
+Racine Ave & Belmont Ave,41.9397,-87.6589,casual,1924
+Racine Ave & Belmont Ave,41.9397,-87.6589,member,5496
+Racine Ave & Congress Pkwy,41.8746,-87.657,casual,514
+Racine Ave & Congress Pkwy,41.8746,-87.657,member,5751
+Racine Ave & Fullerton Ave,41.9256,-87.6584,casual,1393
+Racine Ave & Fullerton Ave,41.9256,-87.6584,member,8005
+Racine Ave & Garfield Blvd,41.7942,-87.6551,casual,62
+Racine Ave & Garfield Blvd,41.7942,-87.6551,member,234
+Racine Ave & Randolph St,41.8841,-87.6569,casual,727
+Racine Ave & Randolph St,41.8841,-87.6569,member,4929
+Racine Ave & Washington Blvd (*),41.8831,-87.657,casual,407
+Racine Ave & Washington Blvd (*),41.8831,-87.657,member,4024
+Racine Ave & Wrightwood Ave,41.9289,-87.659,casual,972
+Racine Ave & Wrightwood Ave,41.9289,-87.659,member,4485
+Rainbow Beach,41.7579,-87.5494,casual,98
+Rainbow Beach,41.7579,-87.5494,member,76
+Ravenswood Ave & Berteau Ave,41.9579,-87.6736,casual,332
+Ravenswood Ave & Berteau Ave,41.9579,-87.6736,member,2487
+Ravenswood Ave & Irving Park Rd,41.9547,-87.6739,casual,670
+Ravenswood Ave & Irving Park Rd,41.9547,-87.6739,member,3720
+Ravenswood Ave & Lawrence Ave,41.9691,-87.6742,casual,1499
+Ravenswood Ave & Lawrence Ave,41.9691,-87.6742,member,13577
+Rhodes Ave & 32nd St,41.8362,-87.6135,casual,549
+Rhodes Ave & 32nd St,41.8362,-87.6135,member,1431
+Richmond St & Diversey Ave,41.9319,-87.7012,casual,564
+Richmond St & Diversey Ave,41.9319,-87.7012,member,1760
+Ridge Blvd & Howard St,42.0193,-87.6845,casual,170
+Ridge Blvd & Howard St,42.0193,-87.6845,member,373
+Ridge Blvd & Touhy Ave,42.0121,-87.6829,casual,174
+Ridge Blvd & Touhy Ave,42.0121,-87.6829,member,634
+Ritchie Ct & Banks St,41.9069,-87.6262,casual,2164
+Ritchie Ct & Banks St,41.9069,-87.6262,member,6293
+Rockwell St & Eastwood Ave,41.9659,-87.6936,casual,308
+Rockwell St & Eastwood Ave,41.9659,-87.6936,member,1524
+Rush St & Cedar St,41.9023,-87.6277,casual,3851
+Rush St & Cedar St,41.9023,-87.6277,member,9142
+Rush St & Hubbard St,41.8902,-87.6262,casual,1524
+Rush St & Hubbard St,41.8902,-87.6262,member,9569
+Rush St & Superior St,41.8958,-87.6259,casual,2900
+Rush St & Superior St,41.8958,-87.6259,member,11337
+Sacramento Blvd & Franklin Blvd,41.8905,-87.7026,casual,44
+Sacramento Blvd & Franklin Blvd,41.8905,-87.7026,member,509
+Sangamon St & Washington Blvd,41.8832,-87.6511,casual,660
+Sangamon St & Washington Blvd,41.8832,-87.6511,member,5265
+Sawyer Ave & Irving Park Rd,41.9536,-87.7093,casual,242
+Sawyer Ave & Irving Park Rd,41.9536,-87.7093,member,714
+Sedgwick St & Huron St,41.8947,-87.6384,casual,1340
+Sedgwick St & Huron St,41.8947,-87.6384,member,13243
+Sedgwick St & North Ave,41.9114,-87.6387,casual,2361
+Sedgwick St & North Ave,41.9114,-87.6387,member,11963
+Sedgwick St & Schiller St,41.9076,-87.6386,casual,644
+Sedgwick St & Schiller St,41.9076,-87.6386,member,3314
+Sedgwick St & Webster Ave,41.9222,-87.6389,casual,2600
+Sedgwick St & Webster Ave,41.9222,-87.6389,member,9328
+Seeley Ave & Garfield Blvd,41.7941,-87.6755,casual,17
+Seeley Ave & Garfield Blvd,41.7941,-87.6755,member,4
+Seeley Ave & Roscoe St,41.9434,-87.6796,casual,727
+Seeley Ave & Roscoe St,41.9434,-87.6796,member,2972
+Shedd Aquarium,41.8672,-87.6154,casual,20778
+Shedd Aquarium,41.8672,-87.6154,member,5860
+Sheffield Ave & Fullerton Ave,41.9256,-87.6537,casual,3023
+Sheffield Ave & Fullerton Ave,41.9256,-87.6537,member,15195
+Sheffield Ave & Kingsbury St,41.9105,-87.6531,casual,1626
+Sheffield Ave & Kingsbury St,41.9105,-87.6531,member,10428
+Sheffield Ave & Waveland Ave,41.9494,-87.6545,casual,4409
+Sheffield Ave & Waveland Ave,41.9494,-87.6545,member,7959
+Sheffield Ave & Webster Ave,41.9215,-87.6538,casual,2149
+Sheffield Ave & Webster Ave,41.9215,-87.6538,member,9666
+Sheffield Ave & Wellington Ave,41.9363,-87.6527,casual,2153
+Sheffield Ave & Wellington Ave,41.9363,-87.6527,member,10407
+Sheffield Ave & Willow St,41.9137,-87.6529,casual,1263
+Sheffield Ave & Willow St,41.9137,-87.6529,member,8163
+Sheffield Ave & Wrightwood Ave,41.9287,-87.6538,casual,1731
+Sheffield Ave & Wrightwood Ave,41.9287,-87.6538,member,7017
+Sheridan Rd & Buena Ave,41.9585,-87.655,casual,842
+Sheridan Rd & Buena Ave,41.9585,-87.655,member,3758
+Sheridan Rd & Columbia Ave,42.0046,-87.6614,casual,434
+Sheridan Rd & Columbia Ave,42.0046,-87.6614,member,1374
+Sheridan Rd & Greenleaf Ave,42.0106,-87.6624,casual,455
+Sheridan Rd & Greenleaf Ave,42.0106,-87.6624,member,1170
+Sheridan Rd & Irving Park Rd,41.9542,-87.6544,casual,1607
+Sheridan Rd & Irving Park Rd,41.9542,-87.6544,member,10976
+Sheridan Rd & Lawrence Ave,41.9695,-87.6547,casual,890
+Sheridan Rd & Lawrence Ave,41.9695,-87.6547,member,2685
+Sheridan Rd & Loyola Ave,42.001,-87.6612,casual,1176
+Sheridan Rd & Loyola Ave,42.001,-87.6612,member,2573
+Sheridan Rd & Montrose Ave,41.9617,-87.6546,casual,1574
+Sheridan Rd & Montrose Ave,41.9617,-87.6546,member,5973
+Sheridan Rd & Noyes St (NU),42.0582,-87.6774,casual,720
+Sheridan Rd & Noyes St (NU),42.0582,-87.6774,member,2376
+Shields Ave & 28th Pl,41.8427,-87.6355,casual,146
+Shields Ave & 28th Pl,41.8427,-87.6355,member,880
+Shields Ave & 31st St,41.8385,-87.6354,casual,153
+Shields Ave & 31st St,41.8385,-87.6354,member,1838
+Shields Ave & 43rd St,41.8162,-87.6348,casual,10
+Shields Ave & 43rd St,41.8162,-87.6348,member,19
+Shore Dr & 55th St,41.7952,-87.5807,casual,2709
+Shore Dr & 55th St,41.7952,-87.5807,member,4729
+Smith Park (*),41.892,-87.6894,casual,260
+Smith Park (*),41.892,-87.6894,member,780
+South Chicago Ave & 83rd St,41.7439,-87.5752,casual,25
+South Chicago Ave & 83rd St,41.7439,-87.5752,member,10
+South Shore Dr & 67th St,41.7736,-87.5675,casual,349
+South Shore Dr & 67th St,41.7736,-87.5675,member,316
+South Shore Dr & 71st St,41.7664,-87.5657,casual,372
+South Shore Dr & 71st St,41.7664,-87.5657,member,571
+South Shore Dr & 74th St,41.7622,-87.5593,casual,129
+South Shore Dr & 74th St,41.7622,-87.5593,member,197
+Southport Ave & Belmont Ave,41.9395,-87.6638,casual,1026
+Southport Ave & Belmont Ave,41.9395,-87.6638,member,4734
+Southport Ave & Clark St,41.9571,-87.6642,casual,440
+Southport Ave & Clark St,41.9571,-87.6642,member,2314
+Southport Ave & Clybourn Ave,41.9208,-87.6637,casual,1492
+Southport Ave & Clybourn Ave,41.9208,-87.6637,member,7086
+Southport Ave & Irving Park Rd,41.9542,-87.6644,casual,984
+Southport Ave & Irving Park Rd,41.9542,-87.6644,member,4767
+Southport Ave & Roscoe St,41.9437,-87.664,casual,2464
+Southport Ave & Roscoe St,41.9437,-87.664,member,10132
+Southport Ave & Waveland Ave,41.9482,-87.6639,casual,2598
+Southport Ave & Waveland Ave,41.9482,-87.6639,member,8617
+Southport Ave & Wellington Ave,41.9357,-87.6636,casual,1731
+Southport Ave & Wellington Ave,41.9357,-87.6636,member,8255
+Southport Ave & Wrightwood Ave,41.9288,-87.6639,casual,1453
+Southport Ave & Wrightwood Ave,41.9288,-87.6639,member,5393
+Spaulding Ave & Armitage Ave,41.9171,-87.7102,casual,839
+Spaulding Ave & Armitage Ave,41.9171,-87.7102,member,2705
+Spaulding Ave & Division St,41.9027,-87.7092,casual,272
+Spaulding Ave & Division St,41.9027,-87.7092,member,666
+St. Clair St & Erie St,41.8944,-87.6227,casual,4666
+St. Clair St & Erie St,41.8944,-87.6227,member,17717
+St. Louis Ave & Balmoral Ave,41.9804,-87.7161,casual,181
+St. Louis Ave & Balmoral Ave,41.9804,-87.7161,member,558
+State St & 19th St,41.8566,-87.6275,casual,764
+State St & 19th St,41.8566,-87.6275,member,1942
+State St & 29th St,41.8417,-87.6269,casual,164
+State St & 29th St,41.8417,-87.6269,member,542
+State St & 33rd St,41.8347,-87.6258,casual,596
+State St & 33rd St,41.8347,-87.6258,member,5916
+State St & 35th St,41.8309,-87.628,casual,369
+State St & 35th St,41.8309,-87.628,member,2353
+State St & 54th St,41.7966,-87.6259,casual,32
+State St & 54th St,41.7966,-87.6259,member,63
+State St & 76th St,41.757,-87.6246,casual,31
+State St & 76th St,41.757,-87.6246,member,43
+State St & 79th St,41.7508,-87.6244,casual,46
+State St & 79th St,41.7508,-87.6244,member,200
+State St & Harrison St,41.8741,-87.6277,casual,1955
+State St & Harrison St,41.8741,-87.6277,member,5942
+State St & Kinzie St,41.8892,-87.6278,casual,3280
+State St & Kinzie St,41.8892,-87.6278,member,15442
+State St & Pearson St,41.8974,-87.6287,casual,2173
+State St & Pearson St,41.8974,-87.6287,member,9285
+State St & Pershing Rd,41.823,-87.6266,casual,57
+State St & Pershing Rd,41.823,-87.6266,member,166
+State St & Randolph St,41.8847,-87.6277,casual,3764
+State St & Randolph St,41.8847,-87.6277,member,15933
+State St & Van Buren St,41.8772,-87.6278,casual,2252
+State St & Van Buren St,41.8772,-87.6278,member,8808
+Stave St & Armitage Ave,41.9177,-87.6914,casual,458
+Stave St & Armitage Ave,41.9177,-87.6914,member,2119
+Stetson Ave & South Water St,41.8868,-87.6223,casual,2390
+Stetson Ave & South Water St,41.8868,-87.6223,member,10201
+Stewart Ave & 63rd St (*),41.7798,-87.6348,casual,3
+Stewart Ave & 63rd St (*),41.7798,-87.6348,member,36
+Stockton Dr & Wrightwood Ave,41.9313,-87.6387,casual,3547
+Stockton Dr & Wrightwood Ave,41.9313,-87.6387,member,7644
+Stony Island Ave & 64th St,41.7789,-87.5866,casual,156
+Stony Island Ave & 64th St,41.7789,-87.5866,member,87
+Stony Island Ave & 67th St,41.7735,-87.5853,casual,143
+Stony Island Ave & 67th St,41.7735,-87.5853,member,72
+Stony Island Ave & 71st St,41.7665,-87.5865,casual,82
+Stony Island Ave & 71st St,41.7665,-87.5865,member,182
+Stony Island Ave & 75th St,41.7587,-87.5869,casual,44
+Stony Island Ave & 75th St,41.7587,-87.5869,member,85
+Stony Island Ave & 82nd St,41.7466,-87.586,casual,34
+Stony Island Ave & 82nd St,41.7466,-87.586,member,35
+Stony Island Ave & South Chicago Ave,41.7512,-87.5853,casual,10
+Stony Island Ave & South Chicago Ave,41.7512,-87.5853,member,18
+Streeter Dr & Grand Ave,41.8923,-87.612,casual,53407
+Streeter Dr & Grand Ave,41.8923,-87.612,member,14951
+Talman Ave & Addison St,41.9466,-87.6946,casual,447
+Talman Ave & Addison St,41.9466,-87.6946,member,1965
+Theater on the Lake,41.9263,-87.6308,casual,15361
+Theater on the Lake,41.9263,-87.6308,member,17295
+Throop (Loomis) St & Taylor St,41.869,-87.6591,casual,365
+Throop (Loomis) St & Taylor St,41.869,-87.6591,member,3699
+Throop St & 52nd St,41.7997,-87.6572,casual,23
+Throop St & 52nd St,41.7997,-87.6572,member,22
+Troy St & Elston Ave,41.9452,-87.7067,casual,365
+Troy St & Elston Ave,41.9452,-87.7067,member,1571
+Troy St & North Ave,41.9098,-87.7053,casual,514
+Troy St & North Ave,41.9098,-87.7053,member,1063
+Union Ave & Root St,41.8191,-87.6433,casual,86
+Union Ave & Root St,41.8191,-87.6433,member,189
+University Ave & 57th St,41.7915,-87.5999,casual,1655
+University Ave & 57th St,41.7915,-87.5999,member,10769
+University Library (NU),42.0529,-87.6734,casual,581
+University Library (NU),42.0529,-87.6734,member,1856
+Valli Produce - Evanston Plaza,42.0397,-87.6994,casual,111
+Valli Produce - Evanston Plaza,42.0397,-87.6994,member,333
+Vernon Ave & 75th St,41.7584,-87.6141,casual,57
+Vernon Ave & 75th St,41.7584,-87.6141,member,88
+Vernon Ave & 79th St,41.7509,-87.6138,casual,29
+Vernon Ave & 79th St,41.7509,-87.6138,member,50
+Wabash Ave & 16th St,41.8604,-87.6258,casual,1538
+Wabash Ave & 16th St,41.8604,-87.6258,member,7873
+Wabash Ave & 83rd St,41.7433,-87.6228,casual,12
+Wabash Ave & 83rd St,41.7433,-87.6228,member,27
+Wabash Ave & 87th St,41.7366,-87.6226,casual,49
+Wabash Ave & 87th St,41.7366,-87.6226,member,88
+Wabash Ave & 9th St,41.8708,-87.6257,casual,2678
+Wabash Ave & 9th St,41.8708,-87.6257,member,10221
+Wabash Ave & Adams St,41.8795,-87.6257,casual,2169
+Wabash Ave & Adams St,41.8795,-87.6257,member,9215
+Wabash Ave & Cermak Rd,41.8526,-87.6265,casual,886
+Wabash Ave & Cermak Rd,41.8526,-87.6265,member,2162
+Wabash Ave & Grand Ave,41.8915,-87.6268,casual,6295
+Wabash Ave & Grand Ave,41.8915,-87.6268,member,18510
+Wabash Ave & Roosevelt Rd,41.8672,-87.626,casual,3875
+Wabash Ave & Roosevelt Rd,41.8672,-87.626,member,16323
+Wabash Ave & Wacker Pl,41.8869,-87.626,casual,4306
+Wabash Ave & Wacker Pl,41.8869,-87.626,member,7770
+Wacker Dr & Washington St,41.8831,-87.6373,casual,1307
+Wacker Dr & Washington St,41.8831,-87.6373,member,14499
+Wallace St & 35th St,41.8306,-87.6413,casual,239
+Wallace St & 35th St,41.8306,-87.6413,member,982
+Walsh Park,41.9146,-87.668,casual,1091
+Walsh Park,41.9146,-87.668,member,2489
+Warren Park East,42.0046,-87.6807,casual,151
+Warren Park East,42.0046,-87.6807,member,767
+Warren Park West,42.0018,-87.6888,casual,298
+Warren Park West,42.0018,-87.6888,member,419
+Washtenaw Ave & Lawrence Ave,41.969,-87.696,casual,335
+Washtenaw Ave & Lawrence Ave,41.969,-87.696,member,1540
+Washtenaw Ave & Ogden Ave,41.8619,-87.6935,casual,207
+Washtenaw Ave & Ogden Ave,41.8619,-87.6935,member,585
+Wells St & 19th St,41.8568,-87.6339,casual,927
+Wells St & 19th St,41.8568,-87.6339,member,1271
+Wells St & Concord Ln,41.9121,-87.6347,casual,4468
+Wells St & Concord Ln,41.9121,-87.6347,member,19067
+Wells St & Elm St,41.9032,-87.6343,casual,2559
+Wells St & Elm St,41.9032,-87.6343,member,13254
+Wells St & Evergreen Ave,41.9067,-87.6348,casual,3159
+Wells St & Evergreen Ave,41.9067,-87.6348,member,11920
+Wells St & Hubbard St,41.8899,-87.6343,casual,3400
+Wells St & Hubbard St,41.8899,-87.6343,member,17430
+Wells St & Huron St,41.8947,-87.6344,casual,3156
+Wells St & Huron St,41.8947,-87.6344,member,21692
+Wells St & Polk St,41.8726,-87.6335,casual,1454
+Wells St & Polk St,41.8726,-87.6335,member,7266
+Wells St & Walton St,41.8999,-87.6344,casual,1336
+Wells St & Walton St,41.8999,-87.6344,member,6485
+Wentworth Ave & 24th St (Temp),41.8501,-87.6321,casual,284
+Wentworth Ave & 24th St (Temp),41.8501,-87.6321,member,773
+Wentworth Ave & 33rd St,41.8345,-87.6318,casual,251
+Wentworth Ave & 33rd St,41.8345,-87.6318,member,1126
+Wentworth Ave & 35th St,41.8308,-87.6325,casual,487
+Wentworth Ave & 35th St,41.8308,-87.6325,member,1256
+Wentworth Ave & 63rd St,41.7801,-87.6297,casual,40
+Wentworth Ave & 63rd St,41.7801,-87.6297,member,99
+Wentworth Ave & Cermak Rd (Temp),41.853,-87.6306,casual,1293
+Wentworth Ave & Cermak Rd (Temp),41.853,-87.6306,member,2548
+Western Ave & 21st St,41.8541,-87.6858,casual,165
+Western Ave & 21st St,41.8541,-87.6858,member,1031
+Western Ave & 24th St,41.8485,-87.6851,casual,85
+Western Ave & 24th St,41.8485,-87.6851,member,484
+Western Ave & 28th St,41.8415,-87.6851,casual,55
+Western Ave & 28th St,41.8415,-87.6851,member,161
+Western Ave & Congress Pkwy,41.8747,-87.6864,casual,317
+Western Ave & Congress Pkwy,41.8747,-87.6864,member,1548
+Western Ave & Division St,41.9029,-87.6873,casual,852
+Western Ave & Division St,41.9029,-87.6873,member,3571
+Western Ave & Fillmore St (*),41.8686,-87.6862,casual,219
+Western Ave & Fillmore St (*),41.8686,-87.6862,member,2609
+Western Ave & Granville Ave,41.9942,-87.6894,casual,145
+Western Ave & Granville Ave,41.9942,-87.6894,member,673
+Western Ave & Howard St,42.0189,-87.69,casual,168
+Western Ave & Howard St,42.0189,-87.69,member,647
+Western Ave & Leland Ave,41.9665,-87.6884,casual,882
+Western Ave & Leland Ave,41.9665,-87.6884,member,4591
+Western Ave & Lunt Ave,42.0086,-87.6905,casual,212
+Western Ave & Lunt Ave,42.0086,-87.6905,member,1095
+Western Ave & Monroe St,41.8798,-87.6861,casual,277
+Western Ave & Monroe St,41.8798,-87.6861,member,1421
+Western Ave & Roscoe St,41.943,-87.6873,casual,291
+Western Ave & Roscoe St,41.943,-87.6873,member,2330
+Western Ave & Walton St,41.8984,-87.6866,casual,874
+Western Ave & Walton St,41.8984,-87.6866,member,5396
+Western Ave & Winnebago Ave,41.9155,-87.687,casual,1464
+Western Ave & Winnebago Ave,41.9155,-87.687,member,7251
+Western Blvd & 48th Pl,41.8057,-87.6834,casual,59
+Western Blvd & 48th Pl,41.8057,-87.6834,member,184
+Wilton Ave & Belmont Ave,41.9402,-87.653,casual,3888
+Wilton Ave & Belmont Ave,41.9402,-87.653,member,14978
+Wilton Ave & Diversey Pkwy,41.9324,-87.6527,casual,2114
+Wilton Ave & Diversey Pkwy,41.9324,-87.6527,member,13588
+Winchester (Ravenswood) Ave & Balmoral Ave,41.9798,-87.6775,casual,340
+Winchester (Ravenswood) Ave & Balmoral Ave,41.9798,-87.6775,member,1560
+Winchester Ave & Elston Ave,41.9241,-87.6765,casual,597
+Winchester Ave & Elston Ave,41.9241,-87.6765,member,2415
+Winthrop Ave & Lawrence Ave,41.9688,-87.6577,casual,795
+Winthrop Ave & Lawrence Ave,41.9688,-87.6577,member,3403
+Wolcott (Ravenswood) Ave & Montrose Ave,41.9614,-87.6762,casual,417
+Wolcott (Ravenswood) Ave & Montrose Ave,41.9614,-87.6762,member,2350
+Wolcott Ave & Fargo Ave,42.017,-87.6777,casual,40
+Wolcott Ave & Fargo Ave,42.017,-87.6777,member,218
+Wolcott Ave & Polk St,41.8713,-87.6737,casual,582
+Wolcott Ave & Polk St,41.8713,-87.6737,member,8848
+Wood St & 35th St,41.8301,-87.6703,casual,85
+Wood St & 35th St,41.8301,-87.6703,member,250
+Wood St & Augusta Blvd,41.8992,-87.6722,casual,483
+Wood St & Augusta Blvd,41.8992,-87.6722,member,5015
+Wood St & Chicago Ave (*),41.8956,-87.6721,casual,519
+Wood St & Chicago Ave (*),41.8956,-87.6721,member,4425
+Wood St & Hubbard St,41.8899,-87.6715,casual,488
+Wood St & Hubbard St,41.8899,-87.6715,member,3468
+Wood St & Milwaukee Ave,41.9077,-87.6726,casual,1859
+Wood St & Milwaukee Ave,41.9077,-87.6726,member,8538
+Wood St & Taylor St,41.8692,-87.671,casual,280
+Wood St & Taylor St,41.8692,-87.671,member,5741
+Woodlawn Ave & 55th St,41.7953,-87.5965,casual,608
+Woodlawn Ave & 55th St,41.7953,-87.5965,member,3584
+Woodlawn Ave & 75th St,41.7592,-87.5958,casual,34
+Woodlawn Ave & 75th St,41.7592,-87.5958,member,16
+Woodlawn Ave & Lake Park Ave,41.8141,-87.597,casual,304
+Woodlawn Ave & Lake Park Ave,41.8141,-87.597,member,1078
+Yates Blvd & 75th St,41.7588,-87.5664,casual,48
+Yates Blvd & 75th St,41.7588,-87.5664,member,69

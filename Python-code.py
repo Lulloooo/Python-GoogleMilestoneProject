@@ -370,9 +370,12 @@ tripsdayrush = (tripsclean.loc[tripsclean['rush_trip_weekly'] == "Yes"] #this fi
       ["trip_duration"].sum())
 ### Station use
 #count how many times each station has been used during the year
-startStatCount = trips["start_station_name"].value_counts().reset_index().rename(columns={"index" : "station_name", "start_station_name" : "tot"})
-endStatCount = trips["end_station_name"].value_counts().reset_index().rename(columns={"index": "station_name", "end_station_name": "tot"})
+tripsclean4 = pd.read_csv("out_data/tripsclean.csv")
+startStatCount = tripsclean4["start_station_name"].value_counts().reset_index().rename(columns={"index" : "station_name", "start_station_name" : "tot"})
+endStatCount = tripsclean4["end_station_name"].value_counts().reset_index().rename(columns={"index": "station_name", "end_station_name": "tot"})
 stationCount = pd.concat([trips["start_station_name"], trips["end_station_name"]]).value_counts().reset_index().rename(columns={"index": "station_name", 0: "tot"})
+startStaMemb = tripsclean4.groupby("member_casual")["start_station_name"].value_counts().reset_index()
+endStaMemb = tripsclean4.groupby("member_casual")["end_station_name"].value_counts().reset_index()
 ############################ LATITUTE AND LONGITUDE ANALYSIS ###################
 #re-load q1 but under another name
 q1lat = pd.read_csv("in_data/2020q1.csv")
@@ -393,6 +396,8 @@ print(Startlat.info())
 startStatCount = startStatCount.rename(columns={"tot" : "start_station_name"})
 #merge to get the lat/long for every station
 latlongStart = pd.merge(Startlat, startStatCount, on = "start_station_name")
+#merge also the ones with members
+startStatMember = pd.merge(Startlat, startStaMemb, on = "start_station_name") #lose rows since not all the station have
 #check for NaN
 latlongStart.isnull().sum()
 ### end station
@@ -412,6 +417,8 @@ print(Endlat.info())
 endStatCount = endStatCount.rename(columns={"tot" : "end_station_name"})
 #merge to get the lat/long for every station
 latlongEnd = pd.merge(Endlat, endStatCount, on = "end_station_name")
+#based on Members
+endStaMember = pd.merge(Endlat, endStaMemb, on = "end_station_name") #loses rows since not all the station have
 #check for NaN
 latlongEnd.isnull().sum()
 ######################## DATA EXPORT #############################################
@@ -432,6 +439,8 @@ tripsdayrush.to_csv('out_data/rushday.csv', index=True)
 stationCount.to_csv("out_data/stationCount.csv", index = False)
 startStatCount.to_csv("out_data/startStatCount.csv", index = False)
 endStatCount.to_csv("out_data/endStatCount.csv", index = False)
+startStatMember.to_csv("out_data/StartStatMember.csv", index = False)
+endStaMember.to_csv("out_data/EndStatMember.csv", index = False)
 latlongStart.to_csv("out_data/latlongStart.csv", index = False)
 latlongEnd.to_csv("out_data/latlongEnd.csv", index = False)
 monthmeanwide.to_csv("out_data/monthmean.csv", index = True)
