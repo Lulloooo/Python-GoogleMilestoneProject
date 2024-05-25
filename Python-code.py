@@ -283,7 +283,6 @@ rushtripCount["member_casual"] = ["casual", "casual", "member", "member"]
 rushtripCount["rush_trip_weekly"] = ["No", "Yes", "No", "Yes"]
 #re-order the columns with reindex
 rushtripCount = rushtripCount.reindex(["member_casual", "rush_trip_weekly", "count"], axis = 1)
-
 rushtripCount.to_csv("out_data/rushtripCount2.csv", index = False)
 #summary stats for tripduration
 tripsduration = tripsclean["trip_duration"].describe()
