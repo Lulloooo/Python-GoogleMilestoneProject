@@ -420,6 +420,9 @@ latlongEnd = pd.merge(Endlat, endStatCount, on = "end_station_name")
 endStaMember = pd.merge(Endlat, endStaMemb, on = "end_station_name") #loses rows since not all the station have
 #check for NaN
 latlongEnd.isnull().sum()
+#make both the dfs as wide
+StartStatMemberWide = startStatMember.pivot(index = ["start_station_name", "start_lat", "start_lng"], columns = "member_casual", values = "count" )
+endStatMemberWide = endStaMember.pivot(index = ["end_station_name", "end_lat", "end_lng"], columns = "member_casual", values = "count" )
 ######################## DATA EXPORT #############################################
 #save all the dfs created
 tripsquarter_count.to_csv('out_data/quartercount.csv', index=False)
@@ -440,6 +443,8 @@ startStatCount.to_csv("out_data/startStatCount.csv", index = False)
 endStatCount.to_csv("out_data/endStatCount.csv", index = False)
 startStatMember.to_csv("out_data/StartStatMember.csv", index = False)
 endStaMember.to_csv("out_data/EndStatMember.csv", index = False)
+StartStatMemberWide.to_csv("out_data/StartStatMemberWide.csv", index = True)
+endStatMemberWide.to_csv("out_data/EndStatMemberWide.csv", index = True)
 latlongStart.to_csv("out_data/latlongStart.csv", index = False)
 latlongEnd.to_csv("out_data/latlongEnd.csv", index = False)
 monthmeanwide.to_csv("out_data/monthmean.csv", index = True)
