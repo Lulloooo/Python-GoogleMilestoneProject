@@ -1,27 +1,11 @@
-member_casual,day_of_week,rush_trip_weekly,trip_duration
-casual,Friday,No,342869788.0
-casual,Friday,Yes,119062241.0
-casual,Monday,No,265535938.0
-casual,Monday,Yes,82808627.0
-casual,Saturday,No,549951363.0
-casual,Saturday,Yes,148227455.0
-casual,Sunday,No,649281773.0
-casual,Thursday,No,263469741.0
-casual,Thursday,Yes,114694905.0
-casual,Tuesday,No,221754485.0
-casual,Tuesday,Yes,103751291.0
-casual,Wednesday,No,257256724.0
-casual,Wednesday,Yes,86558767.0
-member,Friday,No,223081515.0
-member,Friday,Yes,150246766.0
-member,Monday,No,212481475.0
-member,Monday,Yes,185366868.0
-member,Saturday,No,209591182.0
-member,Saturday,Yes,69414345.0
-member,Sunday,No,246510525.0
-member,Thursday,No,211151425.0
-member,Thursday,Yes,187763020.0
-member,Tuesday,No,203782893.0
-member,Tuesday,Yes,216254668.0
-member,Wednesday,No,222596258.0
-member,Wednesday,Yes,189663223.0
+rush_trip_weekly,Yes,,
+,,,
+Sum of trip_duration,Column Labels,,
+Row Labels,casual,member,Grand Total
+Monday,82808627,185366868,268175495
+Tuesday,103751291,216254668,320005959
+Wednesday,86558767,189663223,276221990
+Thursday,114694905,187763020,302457925
+Friday,119062241,150246766,269309007
+Saturday,148227455,69414345,217641800
+Grand Total,655103286,998708890,1653812176

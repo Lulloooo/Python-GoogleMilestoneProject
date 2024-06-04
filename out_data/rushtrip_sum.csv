@@ -1,0 +1,13 @@
+member_casual,day_of_week,rush_trip_weekly,trip_duration
+casual,Friday,Yes,119062241.0
+casual,Monday,Yes,82808627.0
+casual,Saturday,Yes,148227455.0
+casual,Thursday,Yes,114694905.0
+casual,Tuesday,Yes,103751291.0
+casual,Wednesday,Yes,86558767.0
+member,Friday,Yes,150246766.0
+member,Monday,Yes,185366868.0
+member,Saturday,Yes,69414345.0
+member,Thursday,Yes,187763020.0
+member,Tuesday,Yes,216254668.0
+member,Wednesday,Yes,189663223.0

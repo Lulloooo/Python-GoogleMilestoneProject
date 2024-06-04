@@ -323,12 +323,20 @@ tripscount = (tripsclean.groupby(
     ["trip_duration"].size()
     .reset_index(name="count")
 )
-rush_trip_summary = (tripsclean.groupby(
+rush_trip_summary = (tripsclean.loc[tripsclean['rush_trip_weekly'] == "Yes"] #this filters only for rush_trips
+    .groupby(
     ["member_casual", "day_of_week", "rush_trip_weekly"]
     )
     ["trip_duration"].sum()
     .reset_index()
 )
+rush_trip_count = (tripsclean.loc[tripsclean['rush_trip_weekly'] == "Yes"]
+                   .groupby(
+                       ["member_casual", "day_of_week"]
+                       )
+                   ["rush_trip_weekly"].value_counts()
+                   .reset_index()
+                   )
 #weekday only analysis
 daymean = tripsclean.groupby('day_of_week')['trip_duration'].mean().reset_index()
 daysum = tripsclean.groupby('day_of_week')['trip_duration'].sum().reset_index()
@@ -359,11 +367,11 @@ datecountwide = datecount.pivot(index = "date", columns = "member_casual", value
 datemeanwide = datemean.pivot(index = "date", columns = "member_casual", values = "mean")
 datesumwide = datesum.pivot(index = "date", columns = "member_casual", values = "sum")
 datesumwide["total"] = datesumwide["casual"] + datesumwide["member"]
-#count rush trips based on membership
+#amount of time rush trips based on membership
 tripsmemberrush = (tripsclean.loc[tripsclean['rush_trip_weekly'] == "Yes"] #this filters the df for only rush_trips
       .groupby("member_casual")
       ["trip_duration"].sum())
-#count rush trip based on day of thr week
+#amount rush trip based on day of thr week
 tripsdayrush = (tripsclean.loc[tripsclean['rush_trip_weekly'] == "Yes"] #this filters the df for only rush_trips
       .groupby("day_of_week")
       ["trip_duration"].sum())
@@ -410,7 +418,7 @@ Endlat = q1latEnd.groupby(["end_station_name", "end_lat", "end_lng"], as_index=F
 Endlat = Endlat[["end_station_name",
                    "end_lat",
                    "end_lng"]]
-#check that everything is fine
+#check that everything is fine 
 print(Endlat.info())
 #rename the col into startStatCount
 endStatCount = endStatCount.rename(columns={"tot" : "end_station_name"})
@@ -431,8 +439,9 @@ tripsmean.to_csv('out_data/tripsmean.csv', index=False)
 tripssum.to_csv('out_data/tripssum.csv', index=False)
 tripsmax.to_csv('out_data/tripsmax.csv', index=False)
 tripsmin.to_csv('out_data/tripsmin.csv', index=False)
-rushtripCount.to_csv("out_data/rushtripCount.csv", index = False)
-rush_trip_summary.to_csv('out_data/rushtrip_total.csv', index=False)
+rushtripCount.to_csv("out_data/rushtripMembCount.csv", index = False)
+rush_trip_summary.to_csv('out_data/rushtrip_sum.csv', index=False)
+rush_trip_count.to_csv("out_data/rushtrips_count.csv", index = False)
 daymean.to_csv('out_data/daymean.csv', index=False)
 daysum.to_csv('out_data/daysum.csv', index=False)
 daycount.to_csv('out_data/daycount.csv', index=False)
