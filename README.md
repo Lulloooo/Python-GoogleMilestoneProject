@@ -1,6 +1,6 @@
-**Google-Data-Analysis-Capstone-Project-CyclistingBikeSharing**
+#**Google-Data-Analysis-Capstone-Project-CyclistingBikeSharing**
 Analysis of the fictionary company Cyclistic's bike sharing service in Chicago. The goal is to gain insights and data-driven reccomendations to develop a marketing strategy to convert users from casuals to memebers. The case study follows the 6️⃣ main phases of the data analysis process: Ask, Prepare, Process, Analyze, Share, Act.
-The dataset comes from the public dataset: https://divvy-tripdata.s3.amazonaws.com/index.html.
+The dataset comes from the public dataset: https://divvy-tripdata.s3.amazonaws.com/index.html. Excel, Python, BigQuery and Tableau have been employed for the process.
 In this repository is possible to find (except for this readMe):
 
   1️⃣. a .py file that is the analysis' code
